@@ -4,6 +4,16 @@ Beyin yapınızı modelleyerek, tamamen yerel çalışan bir İngilizce gelişti
 FSRS + Hebbian bir "beyin" ile modelleyen bir sistem, ve isteğe bağlı olarak bu beyni bir Obsidian vault'una
 yansıtan bir katman içerir.
 
+## Ekran görüntüleri
+
+| Bugün | Sohbet |
+|---|---|
+| ![Bugün](docs/screenshots/bugun.jpg) | ![Sohbet](docs/screenshots/sohbet.jpg) |
+
+| Gramer | Kelime beyni |
+|---|---|
+| ![Gramer](docs/screenshots/gramer.jpg) | ![Kelime beyni](docs/screenshots/beyin.jpg) |
+
 ## Gereksinimler
 
 - **Apple Silicon Mac (M1/M2/M3/M4).** Ses motorları (`mlx-whisper`, Chatterbox) Apple'ın MLX framework'üne dayanıyor —
@@ -56,3 +66,8 @@ ses modeli/hızı, Türkçe TTS motoru, öğrenci profili dosyası, tutor modeli
 
 - Kitap tabanlı gramer içeriği (`content/grammar/yener.json`) ve kelime beyninin duygu veri seti
   (`content/vocab/warriner_vad.csv`) telif/lisans nedeniyle bu repoda yok; `setup.sh` bunları senin için indirir.
+
+## Lisans
+
+MIT — bkz. [LICENSE](LICENSE). Kelime beyninin duygu verileri ayrı bir lisansla (Warriner, Kuperman & Brysbaert 2013,
+CC BY-NC-ND) geliyor ve repoya dahil değil; kaynağı uygulama içinde Beyin sekmesinde belirtiliyor.
