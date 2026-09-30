@@ -1,0 +1,14 @@
+.env
+.env.local
+/data/
+**/.DS_Store
+__pycache__/
+*.pyc
+server/.venv/
+web/node_modules/
+web/dist/
+web/public/vad/
+konular/
+content/grammar/yener.json
+content/vocab/warriner_vad.csv
+*.log

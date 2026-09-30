@@ -1,0 +1,2888 @@
+{
+ "note": "Pre-learning cards. Every rule was checked against the sources listed with it (British Council pages were read; Cambridge pages could not be opened and were checked through search results).",
+ "lessons": [
+  {
+   "unit": 1,
+   "title": "Articles",
+   "title_tr": "Tanımlıklar",
+   "focus": "Bu kart a / an / the kullanımını kapsar.",
+   "meaning": "a, an ve the, ismin önüne gelen küçük kelimelerdir. Hangi şeyden bahsettiğini gösterirler.",
+   "when_to_use": [
+    "Bir şeyden ilk kez bahsederken ve tek bir tane ise: a / an",
+    "Dinleyen hangisini kastettiğini biliyorsa: the",
+    "Genel konuşurken (çoğul ya da sayılamayan isim): hiçbiri"
+   ],
+   "examples": [
+    {
+     "en": "I need an umbrella.",
+     "tr": "Bir şemsiyeye ihtiyacım var."
+    },
+    {
+     "en": "Have you heard the news?",
+     "tr": "Haberi duydun mu?"
+    }
+   ],
+   "structure": [
+    "a + ünsüz sesiyle başlayan kelime",
+    "an + ünlü sesiyle başlayan kelime",
+    "the + bildiğin, belli şey"
+   ],
+   "speaking_clue": "Bir şeyi ilk kez söylüyorsan a / an. İkimiz de hangisi olduğunu biliyorsak the.",
+   "common_mistakes": [
+    {
+     "wrong": "I have apple.",
+     "right": "I have an apple.",
+     "why": "Sayılabilen tek isimden önce a / an gerekir."
+    },
+    {
+     "wrong": "an university",
+     "right": "a university",
+     "why": "Harfe değil sese bak. University 'yu' sesiyle başlar, o yüzden a."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What do you have in your bag today?",
+    "note": "Çantandakileri anlatırken a / an ve the doğal olarak gelir."
+   },
+   "target_patterns": [
+    "a + singular countable noun",
+    "an + noun that starts with a vowel sound",
+    "the + specific noun both people know"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "İlk kez, tek şey → a / an. Belli, bildiğin şey → the.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Articles: a, an, the",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/articles-a-an-the",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: A/an and the",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/a-an-and-the",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 39,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 2,
+   "title": "Nouns",
+   "title_tr": "İsimler",
+   "focus": "Bu kart sayılabilen ve sayılamayan isimleri (some, any) kapsar.",
+   "meaning": "Bazı isimleri sayabilirsin (bir elma, iki elma). Bazılarını sayamazsın (su, para, bilgi).",
+   "when_to_use": [
+    "Bir şeyin ne kadar olduğunu söylerken",
+    "Olumlu cümlede some, olumsuz cümlede ve soruda any kullanırken",
+    "Soruda: sayılabilen için how many, sayılamayan için how much"
+   ],
+   "examples": [
+    {
+     "en": "There's some milk in the fridge.",
+     "tr": "Dolapta biraz süt var."
+    },
+    {
+     "en": "I don't have a dog.",
+     "tr": "Köpeğim yok."
+    }
+   ],
+   "structure": [
+    "a / an + sayılabilen tek isim",
+    "some + çoğul ya da sayılamayan isim (olumlu)",
+    "any (olumsuz cümle ve soru)"
+   ],
+   "speaking_clue": "Sayabiliyorsan (bir elma, iki elma) a / an ya da sayı. Sayamıyorsan (su, para) some ile başla.",
+   "common_mistakes": [
+    {
+     "wrong": "I have much money.",
+     "right": "I have a lot of money.",
+     "why": "Olumlu cümlede much / many yerine a lot of kullan."
+    },
+    {
+     "wrong": "I need an advice.",
+     "right": "I need some advice.",
+     "why": "Advice sayılamaz. A / an ile ya da çoğul yapılmaz."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What is in your fridge right now?",
+    "note": "Dolabındakileri sayarken some, any ve a lot of kullanırsın."
+   },
+   "target_patterns": [
+    "a / an + countable singular",
+    "some + plural or uncountable (positive)",
+    "any in negatives and questions",
+    "a lot of"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Sayabiliyorsan a / an. Sayamıyorsan some. Olumsuzda any.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Nouns: countable and uncountable",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Nouns: countable and uncountable",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/nouns-countable-and-uncountable",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 43,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 3,
+   "title": "Adjectives",
+   "title_tr": "Sıfatlar",
+   "focus": "Bu kart sıfatın cümledeki yerini kapsar.",
+   "meaning": "Sıfat, bir şeyi anlatan kelimedir: güzel, büyük, yorgun.",
+   "when_to_use": [
+    "Bir şeyi anlatırken: ismin önünde",
+    "Be, look, feel gibi fiillerden sonra"
+   ],
+   "examples": [
+    {
+     "en": "They have a beautiful house.",
+     "tr": "Güzel bir evleri var."
+    },
+    {
+     "en": "That film looks interesting.",
+     "tr": "O film ilginç görünüyor."
+    }
+   ],
+   "structure": [
+    "a / an + sıfat + isim",
+    "be / look / feel + sıfat"
+   ],
+   "speaking_clue": "Bir şeyi anlatmak istiyorsan sıfat düşün. İsmin önüne ya da be / look / feel'den sonra koy.",
+   "common_mistakes": [
+    {
+     "wrong": "an asleep baby",
+     "right": "The baby is asleep.",
+     "why": "Asleep gibi a- ile başlayan sıfatlar isimden önce gelmez, be'den sonra gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Tell me about your house. What is it like?",
+    "note": "Evini anlatırken sıfatları iki yerde de kullanırsın."
+   },
+   "target_patterns": [
+    "adjective + noun",
+    "be / look / feel + adjective"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Sıfat ya ismin önüne gelir ya da be / look / feel'den sonra.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Where adjectives go in a sentence",
+     "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/where-adjectives-go-sentence",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Adjective phrases: position",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/adjective-phrases-position",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 29,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 4,
+   "title": "Adverbs",
+   "title_tr": "Zarflar",
+   "focus": "Bu kart sıklık zarflarını (always, usually, often, sometimes, never) kapsar.",
+   "meaning": "always, usually, often, sometimes, never bir şeyin ne sıklıkla olduğunu söyler.",
+   "when_to_use": [
+    "Alışkanlıkları ve düzenli işleri anlatırken",
+    "Bir şeyin ne kadar sık olduğunu söylerken"
+   ],
+   "examples": [
+    {
+     "en": "We often spend Christmas with friends.",
+     "tr": "Noel'i sık sık arkadaşlarla geçiririz."
+    },
+    {
+     "en": "He was always tired in the evening.",
+     "tr": "Akşamları hep yorgundu."
+    }
+   ],
+   "structure": [
+    "özne + always / usually / often / sometimes / never + fiil",
+    "be (am / is / are) + always / never"
+   ],
+   "speaking_clue": "Alışkanlıktan bahsederken 'ne sıklıkla?' diye düşün. Kelimeyi fiilin önüne, be'nin arkasına koy.",
+   "common_mistakes": [
+    {
+     "wrong": "I go always to school.",
+     "right": "I always go to school.",
+     "why": "Sıklık kelimesi çoğu zaman ana fiilin önüne gelir."
+    },
+    {
+     "wrong": "She always is late.",
+     "right": "She is always late.",
+     "why": "Be fiilinden sonra gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "How often do you drink coffee?",
+    "note": "'Ne sıklıkla?' sorusu sıklık zarflarını çağırır."
+   },
+   "target_patterns": [
+    "subject + frequency adverb + main verb",
+    "be + frequency adverb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Ana fiilin önü, be'nin arkası.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: How often",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/how-often",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Time adverbs (frequency)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/adverbs-of-time-and-frequency",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 36,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 5,
+   "title": "The Comparison of Adjectives, Adverbs and Nouns",
+   "title_tr": "Karşılaştırma",
+   "focus": "Bu kart sıfatlarla karşılaştırmayı (daha büyük, daha ilginç) kapsar.",
+   "meaning": "İki şeyi karşılaştırırsın: daha büyük, daha ilginç, daha iyi.",
+   "when_to_use": [
+    "İki kişiyi ya da iki şeyi karşılaştırırken",
+    "İki şeyden hangisinin daha iyi olduğunu söylerken"
+   ],
+   "examples": [
+    {
+     "en": "This house is older than my house.",
+     "tr": "Bu ev benim evimden daha eski."
+    },
+    {
+     "en": "The city is more interesting than the countryside.",
+     "tr": "Şehir kırdan daha ilginç."
+    }
+   ],
+   "structure": [
+    "kısa sıfat + er + than (older than)",
+    "more + uzun sıfat + than (more interesting than)",
+    "düzensiz: good → better, bad → worse"
+   ],
+   "speaking_clue": "İki şeyi yan yana koyuyorsan sıfat + er ya da more kullan ve arkasına than koy.",
+   "common_mistakes": [
+    {
+     "wrong": "more good",
+     "right": "better",
+     "why": "Good ve bad düzensizdir: better, worse."
+    },
+    {
+     "wrong": "He is taller of me.",
+     "right": "He is taller than me.",
+     "why": "Karşılaştırırken than kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Which is better for you, tea or coffee? Why?",
+    "note": "Seçim yaparken doğal olarak karşılaştırırsın."
+   },
+   "target_patterns": [
+    "adjective-er + than",
+    "more + adjective + than",
+    "better / worse"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "İki şey → sıfat + er / more + than.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Comparative adjectives",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/comparative-adjectives",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Comparative and superlative adjectives",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/comparative-and-superlative-adjectives",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 37,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 6,
+   "title": "Pronouns",
+   "title_tr": "Zamirler",
+   "focus": "Bu kart özne zamirlerini (I, he) ve nesne zamirlerini (me, him) kapsar.",
+   "meaning": "I, he, she gibi kelimeler işi yapan kişiyi söyler. Me, him, her gibi kelimeler işten etkilenen kişiyi söyler.",
+   "when_to_use": [
+    "İşi yapanı söylerken: I, you, he, she, it, we, they",
+    "İşten etkilenen kişiyi söylerken: me, you, him, her, it, us, them",
+    "Edattan sonra: for me, to him"
+   ],
+   "examples": [
+    {
+     "en": "Can you help me?",
+     "tr": "Bana yardım eder misin?"
+    },
+    {
+     "en": "She is waiting for me.",
+     "tr": "Beni bekliyor."
+    }
+   ],
+   "structure": [
+    "özne: I / you / he / she / it / we / they",
+    "nesne (fiilden ve edattan sonra): me / you / him / her / it / us / them"
+   ],
+   "speaking_clue": "Fiilden önce mi (işi yapan)? I, he... Fiilden ya da edattan sonra mı? me, him...",
+   "common_mistakes": [
+    {
+     "wrong": "Was a teacher.",
+     "right": "He was a teacher.",
+     "why": "İngilizce cümlede her zaman özne olur."
+    },
+    {
+     "wrong": "Can you help I?",
+     "right": "Can you help me?",
+     "why": "Fiilden sonra me, him, her gibi nesne kelimeleri gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Who do you talk to every day? Tell me about him or her.",
+    "note": "Bir insandan bahsederken hem özne hem nesne zamiri gelir."
+   },
+   "target_patterns": [
+    "subject pronoun before the verb",
+    "object pronoun after a verb or a preposition"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Fiilden önce I / he. Fiilden ya da edattan sonra me / him.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Personal pronouns",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/personal-pronouns",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Pronouns: personal",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/pronouns-personal-i-me-you-him-it-they-etc",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 46,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 7,
+   "title": "Prepositions",
+   "title_tr": "Edatlar",
+   "focus": "Bu kart zaman edatlarını (at, on, in) kapsar.",
+   "meaning": "at, on, in bir şeyin ne zaman olduğunu söyler.",
+   "when_to_use": [
+    "Saat söylerken: at",
+    "Gün ve tarih söylerken: on",
+    "Ay, mevsim, yıl ve günün bölümlerini söylerken: in"
+   ],
+   "examples": [
+    {
+     "en": "I get up at 6:30.",
+     "tr": "Saat 6:30'da kalkarım."
+    },
+    {
+     "en": "I see her on Monday.",
+     "tr": "Onu pazartesi görüyorum."
+    }
+   ],
+   "structure": [
+    "at + saat (at 6 o'clock)",
+    "on + gün ya da tarih (on Monday, on 30 July)",
+    "in + ay, mevsim, yıl, sabah / öğleden sonra / akşam (in July, in the morning)"
+   ],
+   "speaking_clue": "Zaman söylerken üç soru sor: Saat mi? at. Gün mü? on. Daha uzun bir zaman mı (ay, yıl, sabah)? in.",
+   "common_mistakes": [
+    {
+     "wrong": "in Monday",
+     "right": "on Monday",
+     "why": "Günlerin önünde on gelir."
+    },
+    {
+     "wrong": "at the morning",
+     "right": "in the morning",
+     "why": "Sabah, öğleden sonra, akşam için in kullan. Sadece gece için at night."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What time do you get up, and what do you do on Sundays?",
+    "note": "Günlük planını anlatırken saat, gün ve zaman edatları birlikte gelir."
+   },
+   "target_patterns": [
+    "at + clock time",
+    "on + day or date",
+    "in + month / season / year / part of the day"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Saat → at. Gün / tarih → on. Ay, yıl, sabah → in.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Prepositions of time: at, in, on",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/prepositions-of-time-at-in-on",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: At, on and in (time)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/at-on-and-in-time",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 40,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 8,
+   "title": "Fiil ve Yardımcı Fiil Olarak “To Be”",
+   "title_tr": "Be fiili",
+   "focus": "Bu kart şimdiki zamanda be fiilini (am / is / are) kapsar.",
+   "meaning": "am, is, are 'olmak' demektir. Kim olduğunu, nerede olduğunu ve nasıl olduğunu söylersin.",
+   "when_to_use": [
+    "Kendini tanıtırken",
+    "Bir yerde olduğunu söylerken",
+    "Bir durumu ya da hissi söylerken (yorgunum, meşgulüz)"
+   ],
+   "examples": [
+    {
+     "en": "We are very busy.",
+     "tr": "Çok meşgulüz."
+    },
+    {
+     "en": "I'm not at work.",
+     "tr": "İşte değilim."
+    }
+   ],
+   "structure": [
+    "I am",
+    "you / we / they are",
+    "he / she / it is",
+    "olumsuz: not ekle. Soru: fiili başa al (Are you tired?)"
+   ],
+   "speaking_clue": "Kim olduğunu, nerede olduğunu ya da nasıl olduğunu söylüyorsan am / is / are kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I amn't tired.",
+     "right": "I'm not tired.",
+     "why": "İngilizcede 'amn't' yoktur."
+    },
+    {
+     "wrong": "She tired.",
+     "right": "She is tired.",
+     "why": "Türkçede 'yorgun' tek kelime olabilir, İngilizcede be fiili gerekir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "How are you feeling today? Where are you right now?",
+    "note": "Kendini anlatırken am / is / are doğal olarak gelir."
+   },
+   "target_patterns": [
+    "I am ...",
+    "he / she / it is ...",
+    "you / we / they are ...",
+    "contractions: I'm, he's, you're"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Kim / nerede / nasıl → am, is, are.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Present simple: be",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Be",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/be",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 34,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 9,
+   "title": "Simple Present Tense",
+   "title_tr": "Geniş zaman",
+   "focus": "Bu kart geniş zamanı (alışkanlıklar ve gerçekler) kapsar.",
+   "meaning": "Her zaman ya da düzenli olan şeyleri anlatırsın: alışkanlıklar ve genel gerçekler.",
+   "when_to_use": [
+    "Alışkanlık ve rutin: her hafta sonu futbol oynarım",
+    "Genel gerçekler ve doğrular",
+    "Nerede çalıştığını, ne yaptığını söylerken"
+   ],
+   "examples": [
+    {
+     "en": "I play football every weekend.",
+     "tr": "Her hafta sonu futbol oynarım."
+    },
+    {
+     "en": "She works in London.",
+     "tr": "Londra'da çalışıyor."
+    }
+   ],
+   "structure": [
+    "I / you / we / they + fiil",
+    "he / she / it + fiil + s",
+    "olumsuz: don't / doesn't + yalın fiil",
+    "soru: Do / Does + özne + yalın fiil"
+   ],
+   "speaking_clue": "Alışkanlıktan ya da genel bir gerçekten bahsediyorsan düz fiil kullan. He / she / it ise s ekle.",
+   "common_mistakes": [
+    {
+     "wrong": "She work in London.",
+     "right": "She works in London.",
+     "why": "He / she / it ile fiile s eklenir."
+    },
+    {
+     "wrong": "She doesn't works.",
+     "right": "She doesn't work.",
+     "why": "Doesn't varsa fiil yalın kalır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What do you usually do on weekends?",
+    "note": "Rutinlerini anlatırken geniş zaman gelir."
+   },
+   "target_patterns": [
+    "subject + base verb",
+    "he / she / it + verb-s",
+    "don't / doesn't + base verb",
+    "Do / Does + subject + base verb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Alışkanlık / gerçek → düz fiil. He, she, it → s.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Present simple",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-simple",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Present simple (I work)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/present-simple-i-work",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 42,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 10,
+   "title": "Present Continuous Tense",
+   "title_tr": "Şimdiki zaman",
+   "focus": "Bu kart şimdiki zamanı (şu anda olan şeyler) kapsar.",
+   "meaning": "Şu anda olan bir şeyi ya da bu sıralar geçici olan bir durumu anlatırsın.",
+   "when_to_use": [
+    "Konuşurken tam şu anda olan şey",
+    "Bu sıralar geçici olan durum (bu dönem tarih okuyorum)",
+    "Yakın gelecekte planlanmış bir şey (yarın arkadaşımla buluşuyorum)"
+   ],
+   "examples": [
+    {
+     "en": "Please be quiet. The children are sleeping.",
+     "tr": "Lütfen sessiz ol. Çocuklar uyuyor."
+    },
+    {
+     "en": "Michael is at university. He's studying history.",
+     "tr": "Michael üniversitede. Tarih okuyor."
+    }
+   ],
+   "structure": [
+    "I am + fiil-ing",
+    "you / we / they are + fiil-ing",
+    "he / she / it is + fiil-ing"
+   ],
+   "speaking_clue": "Şu anda olan bir şeyden bahsediyorsan bunu düşün: am / is / are + fiil-ing.",
+   "common_mistakes": [
+    {
+     "wrong": "I watch TV now.",
+     "right": "I am watching TV now.",
+     "why": "Şu anda olan şey için am / is / are + fiil-ing kullan."
+    },
+    {
+     "wrong": "I am knowing him.",
+     "right": "I know him.",
+     "why": "Know, like, want gibi fiiller genelde -ing almaz."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What are you doing right now?",
+    "note": "Şu anı anlatırken bu yapı kendiliğinden gerekir."
+   },
+   "target_patterns": [
+    "am / is / are + verb-ing",
+    "not with know / like / want"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Şu anda olan şey → am / is / are + fiil-ing.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Present continuous",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Present continuous (I am working)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/present-continuous-i-am-working",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 44,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 11,
+   "title": "Simple Past Tense",
+   "title_tr": "Geçmiş zaman",
+   "focus": "Bu kart geçmiş zamanı (bitmiş olaylar) kapsar.",
+   "meaning": "Geçmişte bitmiş bir şeyi anlatırsın.",
+   "when_to_use": [
+    "Geçmişte bir kez olan şey: dün film izledim",
+    "Geçmişte birkaç kez olan ya da bir süre süren şey",
+    "'Önce' anlamında ago ile: iki hafta önce"
+   ],
+   "examples": [
+    {
+     "en": "I met my wife in 1983.",
+     "tr": "Karımla 1983'te tanıştım."
+    },
+    {
+     "en": "I didn't see you yesterday.",
+     "tr": "Seni dün görmedim."
+    }
+   ],
+   "structure": [
+    "düzenli fiil: fiil + ed (worked)",
+    "düzensiz fiil: özel biçim (go → went)",
+    "olumsuz: didn't + yalın fiil",
+    "soru: Did + özne + yalın fiil"
+   ],
+   "speaking_clue": "Ne zaman olduğunu söyleyebiliyorsan (dün, geçen hafta, iki yıl önce) ve iş bittiyse geçmiş zaman kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I didn't went.",
+     "right": "I didn't go.",
+     "why": "Did / didn't varsa fiil yalın kalır."
+    },
+    {
+     "wrong": "I goed to school.",
+     "right": "I went to school.",
+     "why": "Go gibi düzensiz fiillerin özel biçimi vardır: went."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What did you do yesterday?",
+    "note": "Dünü anlatırken geçmiş zaman gelir."
+   },
+   "target_patterns": [
+    "verb-ed or irregular past form",
+    "didn't + base verb",
+    "Did + subject + base verb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Bitmiş geçmiş → fiil + ed ya da özel biçim. did / didn't ile yalın fiil.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Past simple",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/past-simple",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Past simple (I worked)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/past-simple-i-worked",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 39,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 12,
+   "title": "Past Continuous Tense",
+   "title_tr": "Geçmişte devam eden iş",
+   "focus": "Bu kart was / were + fiil-ing yapısını kapsar.",
+   "meaning": "Geçmişte belli bir anda devam eden bir şeyi anlatırsın.",
+   "when_to_use": [
+    "Geçmişte belli bir anda ne yaptığını söylerken",
+    "Sürmekte olan bir işi başka bir olay bölünce: when"
+   ],
+   "examples": [
+    {
+     "en": "We were watching television when the power went off.",
+     "tr": "Televizyon izliyorduk, elektrik kesildi."
+    },
+    {
+     "en": "What were you doing at 8 p.m. last night?",
+     "tr": "Dün gece saat 8'de ne yapıyordun?"
+    }
+   ],
+   "structure": [
+    "I / he / she / it + was + fiil-ing",
+    "you / we / they + were + fiil-ing"
+   ],
+   "speaking_clue": "Geçmişte bir anı hayal ediyorsan ve o anda bir iş sürüyorsa was / were + fiil-ing kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I watched TV when the phone rang.",
+     "right": "I was watching TV when the phone rang.",
+     "why": "Telefon çaldığında TV izleme zaten sürüyordu. Sürmekte olan iş için was / were + -ing."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What were you doing at 8 o'clock last night?",
+    "note": "Geçmiş bir anı anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "was / were + verb-ing",
+    "when + past simple (interrupting action)"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "O anda süren iş → was / were + fiil-ing.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Past continuous and past simple",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/past-continuous-past-simple",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Past continuous (I was working)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/past-continuous-i-was-working",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 40,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 13,
+   "title": "Present Perfect Tense",
+   "title_tr": "Yakın geçmiş zaman",
+   "focus": "Bu kart present perfect'i (have / has + fiilin 3. hali) kapsar.",
+   "meaning": "Geçmişte olan ama şimdiyle bağlantısı olan bir şeyi anlatırsın.",
+   "when_to_use": [
+    "Hayat tecrübesi: hiç gittin mi, hiç yaptın mı?",
+    "Şimdi önemli olan geçmiş olay: anahtarımı kaybettim, o yüzden giremiyorum",
+    "Geçmişte başlayıp hâlâ süren durum: for ve since ile"
+   ],
+   "examples": [
+    {
+     "en": "I've seen that film before.",
+     "tr": "O filmi daha önce gördüm."
+    },
+    {
+     "en": "I can't get in the house. I've lost my keys.",
+     "tr": "Eve giremiyorum. Anahtarlarımı kaybettim."
+    }
+   ],
+   "structure": [
+    "I / you / we / they + have + fiilin 3. hali",
+    "he / she / it + has + fiilin 3. hali",
+    "sık kelimeler: ever, never, just, already, yet"
+   ],
+   "speaking_clue": "Ne zaman olduğunu söylemiyorsun ama şimdiyle ilgili mi? Tecrübe mi? have / has + 3. hal kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I have seen him yesterday.",
+     "right": "I saw him yesterday.",
+     "why": "Yesterday gibi bitmiş zaman kelimeleriyle present perfect kullanılmaz."
+    },
+    {
+     "wrong": "I have gone to Paris. (döndüysen)",
+     "right": "I have been to Paris.",
+     "why": "Gidip döndüysen been, hâlâ oradaysan gone kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Have you ever been to another country? Tell me about it.",
+    "note": "Tecrübeleri anlatırken present perfect kendiliğinden gelir."
+   },
+   "target_patterns": [
+    "have / has + past participle",
+    "ever / never / just / already / yet",
+    "for / since"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Zamanı söylemeden tecrübe ya da şimdiyle bağlantı → have / has + 3. hal.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Present perfect",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Present perfect simple (I have worked)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/present-perfect-simple-i-have-worked",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 48,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 14,
+   "title": "Present Perfect Continuous Tense",
+   "title_tr": "Süregelen iş",
+   "focus": "Bu kart have / has been + fiil-ing yapısını kapsar.",
+   "meaning": "Geçmişte başlayan ve şimdiye kadar süren bir işi anlatırsın. İşin kendisine ve süresine vurgu yaparsın.",
+   "when_to_use": [
+    "Ne kadar süredir bir şey yaptığını söylerken: How long...?",
+    "Yakın zamanda yaptığın işin izini gösterirken (çimen ıslak, yağmur mu yağdı?)"
+   ],
+   "examples": [
+    {
+     "en": "They've been waiting for hours.",
+     "tr": "Saatlerdir bekliyorlar."
+    },
+    {
+     "en": "I've been gardening. It's so nice out there.",
+     "tr": "Bahçeyle uğraşıyordum. Dışarısı çok güzel."
+    }
+   ],
+   "structure": [
+    "have / has + been + fiil-ing",
+    "for + süre, since + başlangıç"
+   ],
+   "speaking_clue": "'Ne kadar süredir?' diye düşünüyorsan have / has been + fiil-ing kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I have been knowing him for years.",
+     "right": "I have known him for years.",
+     "why": "Know gibi duygu ve düşünce fiilleri -ing almaz."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "How long have you been learning English?",
+    "note": "Süreyi anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "have / has been + verb-ing",
+    "for / since + time"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Ne kadar süredir? → have / has been + fiil-ing.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Present perfect simple and continuous",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect-simple-continuous",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Present perfect continuous (I have been working)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/present-perfect-continuous-i-have-been-working",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 34,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 15,
+   "title": "Past Perfect Tense",
+   "title_tr": "Geçmişten önceki zaman",
+   "focus": "Bu kart had + fiilin 3. hali yapısını kapsar.",
+   "meaning": "Geçmişteki iki olaydan hangisinin önce olduğunu söylersin.",
+   "when_to_use": [
+    "Geçmişte bir olayın nedenini anlatırken",
+    "İki olay birbirine bağlıysa, önce olanı göstermek için"
+   ],
+   "examples": [
+    {
+     "en": "He couldn't make a sandwich because he'd forgotten to buy bread.",
+     "tr": "Sandviç yapamadı çünkü ekmek almayı unutmuştu."
+    }
+   ],
+   "structure": [
+    "had + fiilin 3. hali"
+   ],
+   "speaking_clue": "Geçmişte iki şeyden bahsedip 'önce ne oldu?' diye açıklıyorsan, önce olan için had + 3. hal kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "The Romans had spoken Latin.",
+     "right": "The Romans spoke Latin.",
+     "why": "Tek bir geçmiş olay için past perfect kullanılmaz."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Tell me about a time you were late. What had happened before?",
+    "note": "Nedenleri anlatırken önce olan olayı göstermen gerekir."
+   },
+   "target_patterns": [
+    "had + past participle",
+    "because + had + past participle"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Önce olan geçmiş olay → had + 3. hal.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Past perfect",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-perfect",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Past perfect simple (I had worked)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/past-perfect-simple-i-had-worked",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 25,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 16,
+   "title": "Past Perfect Continuous Tense",
+   "title_tr": "Geçmişe kadar süren iş",
+   "focus": "Bu kart had been + fiil-ing yapısını kapsar.",
+   "meaning": "Geçmişte bir ana kadar süren bir işi anlatırsın.",
+   "when_to_use": [
+    "Geçmişteki bir ana kadar bir işin ne kadar sürdüğünü söylerken",
+    "O ana kadar süren işin nedenini anlatırken"
+   ],
+   "examples": [
+    {
+     "en": "It had been raining for hours.",
+     "tr": "Saatlerdir yağmur yağıyordu."
+    }
+   ],
+   "structure": [
+    "had + been + fiil-ing"
+   ],
+   "speaking_clue": "Geçmişte bir anı anlatıyorsun ve o ana kadar süren bir iş var mı? had been + fiil-ing kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I had been believing in astrology.",
+     "right": "I had never believed in astrology.",
+     "why": "Believe gibi duygu ve düşünce fiilleri -ing almaz."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Tell me about a time you waited for something. How long had you been waiting?",
+    "note": "Bekleme süresini anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "had been + verb-ing"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Geçmiş ana kadar süren iş → had been + fiil-ing.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Past perfect (includes past perfect continuous)",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/past-perfect",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Past perfect continuous (I had been working)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/past-perfect-continuous-i-had-been-working",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 26,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 17,
+   "title": "Simple Future Tense",
+   "title_tr": "Gelecek zaman",
+   "focus": "Bu kart will ve be going to arasındaki farkı kapsar.",
+   "meaning": "Gelecekte ne yapacağını söylersin. will ve going to farklı durumlarda kullanılır.",
+   "when_to_use": [
+    "Konuşurken yeni karar verdiysen: will",
+    "Daha önceden plan yaptıysan: going to",
+    "Elindeki işarete bakıp tahmin ederken: going to"
+   ],
+   "examples": [
+    {
+     "en": "I'm going to phone Mum after dinner.",
+     "tr": "Akşam yemeğinden sonra annemi arayacağım."
+    },
+    {
+     "en": "I know! I'll wear my green shirt.",
+     "tr": "Buldum! Yeşil gömleğimi giyeceğim."
+    }
+   ],
+   "structure": [
+    "will + yalın fiil (I'll go)",
+    "am / is / are + going to + yalın fiil"
+   ],
+   "speaking_clue": "Şimdi karar verdiysen will. Daha önce planladıysan going to.",
+   "common_mistakes": [
+    {
+     "wrong": "I going to phone Mum.",
+     "right": "I'm going to phone Mum.",
+     "why": "Going to'dan önce am / is / are gerekir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What are you going to do tomorrow?",
+    "note": "Planlarını anlatırken going to doğal olarak gelir."
+   },
+   "target_patterns": [
+    "will + base verb",
+    "be going to + base verb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Anlık karar → will. Önceden plan → going to.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Future forms: will, be going to and present continuous",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-forms-will-be-going-present-continuous",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Future: be going to",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/future-be-going-to-i-am-going-to-work",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 32,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 18,
+   "title": "Future Continuous Tense",
+   "title_tr": "Gelecekte devam eden iş",
+   "focus": "Bu kart will be + fiil-ing yapısını kapsar.",
+   "meaning": "Gelecekte belli bir anda ne yapıyor olacağını söylersin.",
+   "when_to_use": [
+    "Gelecekteki belli bir anda süren iş: yarın bu saatte uçakta olacağım",
+    "Yeni ya da geçici bir durum: gelecek hafta trenle gideceğiz"
+   ],
+   "examples": [
+    {
+     "en": "When you come out of school tomorrow, I'll be boarding a plane.",
+     "tr": "Yarın okuldan çıktığında ben uçağa biniyor olacağım."
+    },
+    {
+     "en": "I won't be working then.",
+     "tr": "O zaman çalışıyor olmayacağım."
+    }
+   ],
+   "structure": [
+    "will + be + fiil-ing",
+    "won't + be + fiil-ing"
+   ],
+   "speaking_clue": "Gelecekteki bir saati düşünüp 'o anda ne yapıyor olacağım?' diyorsan will be + fiil-ing kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I will studying medicine.",
+     "right": "I'll be studying medicine.",
+     "why": "Will'den sonra be + fiil-ing gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What will you be doing this time tomorrow?",
+    "note": "Yarınki bir anı anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "will be + verb-ing"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Gelecekteki o anda süren iş → will be + fiil-ing.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Future continuous and future perfect",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-continuous-future-perfect",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Future continuous (I will be working)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/future-continuous-i-will-be-working",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 32,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 19,
+   "title": "Future Perfect Tense",
+   "title_tr": "Gelecekte bitmiş olacak iş",
+   "focus": "Bu kart will have + fiilin 3. hali yapısını kapsar.",
+   "meaning": "Gelecekte belli bir zamana kadar bitmiş olacak bir şeyi anlatırsın.",
+   "when_to_use": [
+    "'... e kadar bitmiş olacak' derken: by, by the time",
+    "Bir planın o zamana kadar tamamlanacağını söylerken"
+   ],
+   "examples": [
+    {
+     "en": "The guests are coming at 8 p.m. I'll have finished cooking by then.",
+     "tr": "Misafirler saat 8'de geliyor. O zamana kadar yemeği bitirmiş olacağım."
+    }
+   ],
+   "structure": [
+    "will + have + fiilin 3. hali",
+    "by + zaman"
+   ],
+   "speaking_clue": "Gelecekteki bir zamanı düşünüp 'o zamana kadar bitmiş olacak' diyorsan will have + 3. hal kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I will have finish the report by Friday.",
+     "right": "I will have finished the report by Friday.",
+     "why": "Will have'den sonra fiilin 3. hali gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What will you have finished by the end of this week?",
+    "note": "Hedeflerini anlatırken 'o zamana kadar bitmiş olacak' demen gerekir."
+   },
+   "target_patterns": [
+    "will have + past participle",
+    "by + time"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "O zamana kadar bitmiş olacak → will have + 3. hal + by.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Future continuous and future perfect",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-continuous-future-perfect",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Future perfect simple (I will have worked eight hours)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/future-perfect-simple-i-will-have-worked-eight-hours",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 33,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 20,
+   "title": "Future Perfect Continuous Tense",
+   "title_tr": "Gelecekte süresi vurgulanan iş",
+   "focus": "Bu kart will have been + fiil-ing yapısını kapsar.",
+   "meaning": "Gelecekteki bir zamandan geriye bakıp bir işin ne kadar sürdüğünü söylersin.",
+   "when_to_use": [
+    "Gelecekteki bir zamana kadar bir işin ne kadar süreceğini söylerken",
+    "Süreyi vurgularken: for"
+   ],
+   "examples": [
+    {
+     "en": "I will have been studying English for three years by the end of this course.",
+     "tr": "Bu kursun sonunda üç yıldır İngilizce çalışıyor olacağım."
+    }
+   ],
+   "structure": [
+    "will + have + been + fiil-ing",
+    "for + süre"
+   ],
+   "speaking_clue": "Gelecekteki bir zamandan geriye bakıp 'o zamana kadar ne kadar süredir?' diyorsan bunu düşün.",
+   "common_mistakes": [
+    {
+     "wrong": "She will have been live in France for a year.",
+     "right": "She will have been living in France for a year.",
+     "why": "Been'den sonra fiil-ing gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "How long will you have been learning English by next year?",
+    "note": "Gelecekteki bir yıl dönümünü anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "will have been + verb-ing",
+    "for + time"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Gelecekteki zamana kadar süre → will have been + fiil-ing.",
+   "sources": [
+    {
+     "name": "Cambridge Dictionary Grammar: Future perfect continuous (I will have been working here ten years)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/future-perfect-continuous-i-will-have-been-working-here-ten-years",
+     "checked": "page-read"
+    }
+   ],
+   "read_seconds": 32,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 21,
+   "title": "Possession (Have & Have Got)",
+   "title_tr": "Sahiplik",
+   "focus": "Bu kart sahiplik için have ve have got kullanımını kapsar.",
+   "meaning": "Bir şeye sahip olduğunu söylersin: eşya, aile, görünüş.",
+   "when_to_use": [
+    "Neyin olduğunu söylerken: arabam var",
+    "Ailen ve arkadaşların hakkında konuşurken",
+    "Görünüşü anlatırken: uzun saçı var"
+   ],
+   "examples": [
+    {
+     "en": "I've got a big family.",
+     "tr": "Büyük bir ailem var."
+    },
+    {
+     "en": "Have you got any pets?",
+     "tr": "Evcil hayvanın var mı?"
+    }
+   ],
+   "structure": [
+    "I / you / we / they + have got",
+    "he / she / it + has got",
+    "soru: Have you got ...? ya da Do you have ...?"
+   ],
+   "speaking_clue": "Bir şeyin var mı, yok mu? Sahiplik anlatıyorsan have (got) kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I had got a car.",
+     "right": "I had a car.",
+     "why": "Geçmişte got kullanılmaz, sadece had kullanılır."
+    },
+    {
+     "wrong": "I'm having two brothers.",
+     "right": "I have two brothers.",
+     "why": "Sahiplik için -ing kullanılmaz."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Tell me about your family. Have you got any brothers or sisters?",
+    "note": "Ailen hakkında konuşurken sahiplik yapısı doğal olarak gelir."
+   },
+   "target_patterns": [
+    "have / has got",
+    "don't have / haven't got"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Sahiplik → have got ya da have. Geçmişte had.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Present simple: have got",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-have-got",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Have got and have",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/have-got-and-have",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 36,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 22,
+   "title": "Modals I (Ability & Possibility)",
+   "title_tr": "Yapabilme: can / could",
+   "focus": "Bu kart can ve could ile yeteneği kapsar.",
+   "meaning": "can 'yapabilirim' demektir. could geçmişteki yeteneği anlatır.",
+   "when_to_use": [
+    "Neyi yapabildiğini söylerken: İngilizce konuşabilirim",
+    "Geçmişte yapabildiğin şeyi söylerken",
+    "Bir şeyin mümkün olduğunu söylerken: could"
+   ],
+   "examples": [
+    {
+     "en": "She can speak several languages.",
+     "tr": "Birkaç dil konuşabiliyor."
+    },
+    {
+     "en": "They couldn't dance.",
+     "tr": "Dans edemiyorlardı."
+    }
+   ],
+   "structure": [
+    "can + yalın fiil",
+    "can't + yalın fiil",
+    "could + yalın fiil (geçmiş yetenek)"
+   ],
+   "speaking_clue": "'Yapabilir miyim, yapabildim mi?' diye düşünüyorsan can / could kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "She can speaks English.",
+     "right": "She can speak English.",
+     "why": "Can'den sonra fiil yalın kalır."
+    },
+    {
+     "wrong": "I can to swim.",
+     "right": "I can swim.",
+     "why": "Can'den sonra to gelmez."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What can you do well? Tell me about something you can do.",
+    "note": "Yeteneklerini anlatırken can gelir."
+   },
+   "target_patterns": [
+    "can + base verb",
+    "could + base verb",
+    "can't + base verb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Yapabiliyorum → can + yalın fiil. Geçmişte → could.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Can and could",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/can-could",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Can",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/can",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 28,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 23,
+   "title": "Modals II (Permission & Prohibition)",
+   "title_tr": "İzin isteme",
+   "focus": "Bu kart izin isteme ve verme kalıplarını kapsar.",
+   "meaning": "İzin isterken, izin verirken ve reddederken kullanılan kalıplardır.",
+   "when_to_use": [
+    "İzin isterken: Can I ...? Could I ...? May I ...?",
+    "İzin verirken: You can ...",
+    "İzin vermezken: You can't ..."
+   ],
+   "examples": [
+    {
+     "en": "Could I ask a question, please?",
+     "tr": "Bir soru sorabilir miyim lütfen?"
+    },
+    {
+     "en": "You can go home now.",
+     "tr": "Şimdi eve gidebilirsin."
+    }
+   ],
+   "structure": [
+    "Can I ...? (rahat)",
+    "Could I ...? (daha kibar)",
+    "May I ...? (en resmi)",
+    "cevap: You can / You can't"
+   ],
+   "speaking_clue": "Birinden izin isteyeceksen Can, Could ya da May I ile başla. Ne kadar kibar olmak istiyorsan o kadar resmi seç.",
+   "common_mistakes": [
+    {
+     "wrong": "Yes, you could.",
+     "right": "Yes, you can.",
+     "why": "İzin verirken could kullanılmaz. Can ya da may kullan."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "You are in my office and you are thirsty. Ask me politely for some water.",
+    "note": "Bir ofiste izin ya da rica etmek bu kalıpları çağırır."
+   },
+   "target_patterns": [
+    "Can / Could / May I + base verb",
+    "You can / You can't + base verb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "İzin iste → Can / Could / May I. İzin ver → You can.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Permission",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/permission",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Can, could or may?",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/can-could-or-may",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 34,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 24,
+   "title": "Modals III (Obligation & Necessity)",
+   "title_tr": "Zorunluluk ve tavsiye",
+   "focus": "Bu kart must, have to ve should kullanımını kapsar.",
+   "meaning": "Yapman gereken ya da yapmak zorunda olduğun şeyleri söylersin.",
+   "when_to_use": [
+    "Zorunluluk ve kural: must, have to",
+    "Tavsiye vermek: should",
+    "Yasak: mustn't"
+   ],
+   "examples": [
+    {
+     "en": "You must stop at a red light.",
+     "tr": "Kırmızı ışıkta durmalısın."
+    },
+    {
+     "en": "You should send an email.",
+     "tr": "Bir e-posta göndermelisin."
+    }
+   ],
+   "structure": [
+    "must + yalın fiil (zorunluluk)",
+    "mustn't + yalın fiil (yasak)",
+    "should + yalın fiil (tavsiye)",
+    "geçmişte zorunluluk: had to"
+   ],
+   "speaking_clue": "Zorunluysa must ya da have to. Tavsiye veriyorsan should.",
+   "common_mistakes": [
+    {
+     "wrong": "I must to go.",
+     "right": "I must go.",
+     "why": "Must'tan sonra to gelmez."
+    },
+    {
+     "wrong": "Yesterday I must work.",
+     "right": "Yesterday I had to work.",
+     "why": "Geçmişte zorunluluk için had to kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "I have a big exam next week. What should I do?",
+    "note": "Tavsiye istemek should'u çağırır."
+   },
+   "target_patterns": [
+    "must + base verb",
+    "have to",
+    "should + base verb",
+    "had to (past)"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Zorunlu → must / have to. Tavsiye → should. Geçmişte → had to.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Suggestions and obligations",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/suggestions-obligations",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Must and have to",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/have-to-and-must",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 31,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 25,
+   "title": "Modals IV (Deduction)",
+   "title_tr": "Tahmin: must / might / can't",
+   "focus": "Bu kart şu anki durum için tahmin yapmayı kapsar.",
+   "meaning": "Elindeki bilgiyle bir şeyin doğru olup olmadığını tahmin edersin.",
+   "when_to_use": [
+    "Çok eminsen: must",
+    "Emin değilsen: might, may, could",
+    "Mümkün değil diyorsan: can't"
+   ],
+   "examples": [
+    {
+     "en": "This must be her house. I can see her car in the garage.",
+     "tr": "Bu onun evi olmalı. Garajda arabasını görüyorum."
+    },
+    {
+     "en": "She might be stuck in traffic.",
+     "tr": "Trafikte kalmış olabilir."
+    }
+   ],
+   "structure": [
+    "must + yalın fiil (eminim)",
+    "might / may / could + yalın fiil (belki)",
+    "can't + yalın fiil (imkânsız)"
+   ],
+   "speaking_clue": "'Bence böyledir' diye tahmin ediyorsan eminliğine göre seç: must, might, can't.",
+   "common_mistakes": [
+    {
+     "wrong": "He mustn't be at home. (eminsen)",
+     "right": "He can't be at home.",
+     "why": "'Kesin evde değil' demek için can't kullanılır. Mustn't yasak anlamına gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Your friend is late for our meeting. Why do you think he is late?",
+    "note": "Bir sebep tahmin ederken bu kalıplar gelir."
+   },
+   "target_patterns": [
+    "must be",
+    "might / may / could be",
+    "can't be"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Eminim → must. Belki → might. İmkânsız → can't.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Modals: deductions about the present",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modals-deductions-about-present",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Modal verbs and modality",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/modal-verbs-and-modality",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 34,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 26,
+   "title": "Modals V (Request / Offer / Suggestion)",
+   "title_tr": "Rica, teklif, öneri",
+   "focus": "Bu kart nazikçe rica etmeyi ve yardım teklif etmeyi kapsar.",
+   "meaning": "Nazikçe bir şey istersin, yardım teklif edersin ya da davet edersin.",
+   "when_to_use": [
+    "Rica ederken: Could you ...?",
+    "Yardım teklif ederken: Can I ...? Shall I ...?",
+    "Davet ederken: Would you like ...?"
+   ],
+   "examples": [
+    {
+     "en": "Could you take a message, please?",
+     "tr": "Bir mesaj alabilir misiniz lütfen?"
+    },
+    {
+     "en": "Would you like another drink?",
+     "tr": "Bir içecek daha ister misin?"
+    }
+   ],
+   "structure": [
+    "Could / Would you + yalın fiil, please?",
+    "Can I / Shall I + yalın fiil?",
+    "Would you like + isim ya da to + fiil?"
+   ],
+   "speaking_clue": "Nazik olmak istiyorsan could ve would kullan. Yardım sunuyorsan Can I ya da Shall I.",
+   "common_mistakes": [
+    {
+     "wrong": "Give me some water.",
+     "right": "Could you give me some water, please?",
+     "why": "Rica ederken could / would you daha kibardır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Hi! I'm your guest. What can you offer me?",
+    "note": "Bir misafiri ağırlarken teklif ve davet kalıpları gelir."
+   },
+   "target_patterns": [
+    "Could / Would you ...?",
+    "Would you like ...?",
+    "Can I ...? / Shall I ...?"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Rica → Could you. Teklif → Can I / Shall I. Davet → Would you like.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Requests, offers and invitations",
+     "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/requests-offers-invitations",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Requests",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/requests",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 37,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 27,
+   "title": "Used To & Would",
+   "title_tr": "Eskiden yapardım",
+   "focus": "Bu kart used to ve would ile geçmiş alışkanlıkları kapsar.",
+   "meaning": "Eskiden olan ama artık olmayan alışkanlıkları ve durumları anlatırsın.",
+   "when_to_use": [
+    "Eskiden yaptığın ama artık yapmadığın şeyler",
+    "Eski durumlar: eskiden New York'ta yaşardık"
+   ],
+   "examples": [
+    {
+     "en": "We used to live in New York when I was a kid.",
+     "tr": "Çocukken New York'ta yaşardık."
+    },
+    {
+     "en": "I used to go swimming every Thursday when I was at school.",
+     "tr": "Okuldayken her perşembe yüzmeye giderdim."
+    }
+   ],
+   "structure": [
+    "used to + yalın fiil",
+    "didn't use to + yalın fiil",
+    "would + yalın fiil (yalnızca tekrarlanan eylem)"
+   ],
+   "speaking_clue": "Eskiden vardı ama artık yok mu? used to kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I used to going to school by bus.",
+     "right": "I used to go to school by bus.",
+     "why": "Used to'dan sonra yalın fiil gelir."
+    },
+    {
+     "wrong": "I would live in Izmir.",
+     "right": "I used to live in Izmir.",
+     "why": "Would durumlar için kullanılmaz, sadece tekrarlanan eylemler için."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What did you use to do when you were a child?",
+    "note": "Çocukluğunu anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "used to + base verb",
+    "would + base verb (habit only)"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Eskiden var, artık yok → used to + yalın fiil.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Past habits: used to, would and the past simple",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2-grammar/past-habits-used-to-would-past-simple",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Used to",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/used-to",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 41,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 28,
+   "title": "Other Modals and Structures",
+   "title_tr": "Had better ve would rather",
+   "focus": "Bu kart yalnızca had better ve would rather kalıplarını kapsar.",
+   "meaning": "had better güçlü bir tavsiyedir. would rather tercihini söylemektir.",
+   "when_to_use": [
+    "Şimdi ya da yakında yapılması iyi olan şey için tavsiye: had better",
+    "Neyi tercih ettiğini söylerken: would rather"
+   ],
+   "examples": [
+    {
+     "en": "You had better leave now.",
+     "tr": "Şimdi çıksan iyi olur."
+    },
+    {
+     "en": "I'd rather go home.",
+     "tr": "Eve gitmeyi tercih ederim."
+    }
+   ],
+   "structure": [
+    "had better + yalın fiil ('d better)",
+    "would rather + yalın fiil ('d rather)"
+   ],
+   "speaking_clue": "Birine güçlü tavsiye veriyorsan had better. 'Tercih ederim' diyorsan would rather.",
+   "common_mistakes": [
+    {
+     "wrong": "You have better go.",
+     "right": "You had better go.",
+     "why": "Her zaman had kullanılır, have değil."
+    },
+    {
+     "wrong": "I would rather to stay.",
+     "right": "I would rather stay.",
+     "why": "Would rather'dan sonra to gelmez."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Would you rather stay home or go out tonight?",
+    "note": "Tercih sorusu would rather'ı çağırır."
+   },
+   "target_patterns": [
+    "had better + base verb",
+    "would rather + base verb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Güçlü tavsiye → had better. Tercih → would rather. İkisinden sonra yalın fiil.",
+   "sources": [
+    {
+     "name": "Cambridge Dictionary Grammar: Had better",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/had-better",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Would rather, would sooner",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/would-rather-would-sooner",
+     "checked": "page-read"
+    }
+   ],
+   "read_seconds": 32,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 29,
+   "title": "Intensifiers",
+   "title_tr": "Pekiştirme: very, too, enough",
+   "focus": "Bu kart very / really, too ve enough kelimelerini kapsar.",
+   "meaning": "very ve really bir şeyi güçlendirir. too 'fazla' demektir. enough 'yeterli' demektir.",
+   "when_to_use": [
+    "Bir şeyi daha güçlü söylerken: very, really",
+    "Bir şeyin fazla olduğunu söylerken: too",
+    "Yeterli olup olmadığını söylerken: enough"
+   ],
+   "examples": [
+    {
+     "en": "He is old enough to drive.",
+     "tr": "Araba kullanacak kadar büyük."
+    },
+    {
+     "en": "This coffee is too hot.",
+     "tr": "Bu kahve fazla sıcak."
+    }
+   ],
+   "structure": [
+    "very / really + sıfat",
+    "too + sıfat (fazla, istenmeyen)",
+    "sıfat + enough (yeterince)"
+   ],
+   "speaking_clue": "Çok mu? very. Fazla ve istenmeyen mi? too. Yeterli mi? sıfattan sonra enough.",
+   "common_mistakes": [
+    {
+     "wrong": "enough old",
+     "right": "old enough",
+     "why": "Enough sıfattan sonra gelir."
+    },
+    {
+     "wrong": "It is very hot, I can't drink it.",
+     "right": "It is too hot. I can't drink it.",
+     "why": "Very 'çok' demektir, 'fazla' demek değildir. Fazla için too."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "How is the weather today? Is it good for a walk?",
+    "note": "Havayı anlatırken very, too ve enough gelir."
+   },
+   "target_patterns": [
+    "very / really + adjective",
+    "too + adjective",
+    "adjective + enough"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Çok → very. Fazla → too. Yeterli → sıfat + enough.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Intensifiers",
+     "url": "https://learnenglish.britishcouncil.org/english-grammar-reference/intensifiers",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Too",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/too",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 36,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 30,
+   "title": "Both / Either / Neither / Each / Too / So",
+   "title_tr": "Both, either, neither",
+   "focus": "Bu kart yalnızca both, either ve neither kelimelerini kapsar.",
+   "meaning": "İki şeyden bahsederken kullanırsın: both (ikisi de), either (biri ya da öteki), neither (hiçbiri).",
+   "when_to_use": [
+    "İki şey için 'ikisi de' derken: both",
+    "İki şeyden 'herhangi biri' derken: either",
+    "İki şey için 'hiçbiri' derken: neither"
+   ],
+   "examples": [
+    {
+     "en": "Both the supermarkets were closed.",
+     "tr": "İki süpermarket de kapalıydı."
+    },
+    {
+     "en": "Neither of the supermarkets was open.",
+     "tr": "Süpermarketlerden hiçbiri açık değildi."
+    }
+   ],
+   "structure": [
+    "both + çoğul isim",
+    "either of the + isim",
+    "neither of the + isim"
+   ],
+   "speaking_clue": "Sadece iki şey varsa ikisi de mi (both), hiçbiri mi (neither) diye düşün.",
+   "common_mistakes": [
+    {
+     "wrong": "I don't like neither.",
+     "right": "I don't like either.",
+     "why": "Olumsuz cümlede not ... either kullanılır, not ... neither kullanılmaz."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Do you like coffee and tea? Tell me about both of them.",
+    "note": "İki şeyi karşılaştırırken bu kelimeler gelir."
+   },
+   "target_patterns": [
+    "both + noun",
+    "either of / neither of + the + noun",
+    "not ... either"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "İki şey: ikisi de → both. Hiçbiri → neither. Olumsuzda not ... either.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Quantifiers",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/quantifiers",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Both",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/both",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 32,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 31,
+   "title": "Numbers / Dates / The Time",
+   "title_tr": "Saat ve tarih söyleme",
+   "focus": "Bu kart saat ve tarih söylerken doğru kelimeyi seçmeyi kapsar.",
+   "meaning": "Saati ve tarihi söylerken doğru edatı seçersin: at, on, in.",
+   "when_to_use": [
+    "Saati söylerken: at seven o'clock",
+    "Günü ve tarihi söylerken: on Monday, on the fifteenth of June",
+    "Ay ve yılı söylerken: in June, in 2009"
+   ],
+   "examples": [
+    {
+     "en": "We start at nine thirty.",
+     "tr": "Dokuz buçukta başlıyoruz."
+    },
+    {
+     "en": "My birthday is on the fifteenth of June.",
+     "tr": "Doğum günüm on beş Haziran."
+    }
+   ],
+   "structure": [
+    "at + saat",
+    "on + gün ya da tarih",
+    "in + ay ya da yıl"
+   ],
+   "speaking_clue": "Saat mi, gün mü, ay mı? at, on, in. Tarih söylerken konuşmada the ve of söylenir (the fifteenth of June).",
+   "common_mistakes": [
+    {
+     "wrong": "My birthday is at June 15th.",
+     "right": "My birthday is on June 15th.",
+     "why": "Tarihin önünde on gelir."
+    },
+    {
+     "wrong": "I met him before three weeks.",
+     "right": "I met him three weeks ago.",
+     "why": "Geçmişte 'önce' demek için ago kullanılır ve süreden sonra gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "When is your birthday? And what time do you usually eat dinner?",
+    "note": "Doğum günü ve akşam yemeği saatini anlatmak saat ve tarih söylemeyi gerektirir."
+   },
+   "target_patterns": [
+    "at + time",
+    "on + day or date",
+    "in + month or year",
+    "time + ago"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Saat → at. Gün / tarih → on. Ay / yıl → in.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: When: time and dates",
+     "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/when-time-dates",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Dates",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/dates",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 43,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 32,
+   "title": "Interrogatives",
+   "title_tr": "Soru cümleleri",
+   "focus": "Bu kart evet / hayır ve bilgi sorularını kapsar.",
+   "meaning": "İngilizcede soru sorarken fiili özneden önce koyarsın. Soru kelimesi başa gelir.",
+   "when_to_use": [
+    "Evet / hayır sorusu: Are you ...? Do you ...?",
+    "Bilgi sorusu: What, Where, When, Why, How"
+   ],
+   "examples": [
+    {
+     "en": "Do you work at home?",
+     "tr": "Evde mi çalışıyorsun?"
+    },
+    {
+     "en": "Why are you late?",
+     "tr": "Neden geç kaldın?"
+    }
+   ],
+   "structure": [
+    "be / can / have + özne",
+    "Do / Does / Did + özne + yalın fiil",
+    "soru kelimesi + do / does / did + özne + fiil"
+   ],
+   "speaking_clue": "Soru soruyorsan fiili öne al. Ana fiil be değilse do / does / did ekle.",
+   "common_mistakes": [
+    {
+     "wrong": "You work at home?",
+     "right": "Do you work at home?",
+     "why": "Soruda do / does / did gerekir."
+    },
+    {
+     "wrong": "Where you live?",
+     "right": "Where do you live?",
+     "why": "Soru kelimesinden sonra do / does gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "I'm a new colleague. Ask me some questions about me.",
+    "note": "Yeni biriyle tanışırken soru sormak gerekir."
+   },
+   "target_patterns": [
+    "Do / Does / Did + subject + base verb",
+    "wh-word + auxiliary + subject",
+    "be + subject"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Soru → fiil öne. Ana fiilde do / does / did.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Question forms",
+     "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/question-forms",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Questions: wh- questions",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/questions-wh-questions",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 39,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 33,
+   "title": "Question Tags",
+   "title_tr": "Soru ekleri",
+   "focus": "Bu kart soru eklerini (isn't it?, don't you?) kapsar.",
+   "meaning": "Cümlenin sonuna kısa bir soru ekleyerek onay istersin.",
+   "when_to_use": [
+    "Karşındakinin aynı fikirde olmasını beklerken",
+    "Bir şeyden emin olup teyit isterken"
+   ],
+   "examples": [
+    {
+     "en": "She's a doctor, isn't she?",
+     "tr": "O doktor, değil mi?"
+    },
+    {
+     "en": "He isn't here, is he?",
+     "tr": "O burada değil, değil mi?"
+    }
+   ],
+   "structure": [
+    "olumlu cümle + olumsuz ek (is → isn't)",
+    "olumsuz cümle + olumlu ek",
+    "yardımcı fiil yoksa do / does / did"
+   ],
+   "speaking_clue": "Bir şeyi söyleyip 'değil mi?' demek istiyorsan cümlenin sonuna ters bir ek koy.",
+   "common_mistakes": [
+    {
+     "wrong": "You like coffee, isn't it?",
+     "right": "You like coffee, don't you?",
+     "why": "Ek, cümledeki fiile göre seçilir: like → don't you."
+    },
+    {
+     "wrong": "He is here, is he?",
+     "right": "He is here, isn't he?",
+     "why": "Olumlu cümleden sonra olumsuz ek gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "You like music, don't you? Tell me about the music you like.",
+    "note": "Ek soruyu Alex kullanır, sen de cevap verirken denersin."
+   },
+   "target_patterns": [
+    "positive sentence + negative tag",
+    "negative sentence + positive tag",
+    "do / does / did in the tag"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Olumlu → olumsuz ek. Olumsuz → olumlu ek.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Question tags",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/question-tags",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Tags",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/tags",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 36,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 34,
+   "title": "Imperative",
+   "title_tr": "Emir cümleleri",
+   "focus": "Bu kart emir ve talimat cümlelerini kapsar.",
+   "meaning": "Birine bir şey yapmasını söylersin: emir, rica, talimat.",
+   "when_to_use": [
+    "Talimat verirken: Turn left",
+    "Uyarı yaparken: Don't touch",
+    "Nazik rica ederken: Open the window, please"
+   ],
+   "examples": [
+    {
+     "en": "Sit down.",
+     "tr": "Otur."
+    },
+    {
+     "en": "Don't be late.",
+     "tr": "Geç kalma."
+    }
+   ],
+   "structure": [
+    "yalın fiil (Open the door)",
+    "Don't + yalın fiil (Don't run)",
+    "please ile daha kibar"
+   ],
+   "speaking_clue": "Birine bir şey yaptırmak istiyorsan özneyi söyleme, fiille başla.",
+   "common_mistakes": [
+    {
+     "wrong": "You open the door.",
+     "right": "Open the door.",
+     "why": "Emirde özne söylenmez, fiille başlanır."
+    },
+    {
+     "wrong": "No run.",
+     "right": "Don't run.",
+     "why": "Olumsuz emir don't + yalın fiil ile yapılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "I want to make tea. Tell me what to do step by step.",
+    "note": "Bir işi adım adım anlatmak emir cümlelerini çağırır."
+   },
+   "target_patterns": [
+    "base verb (no subject)",
+    "Don't + base verb",
+    "please"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Emir → fiille başla. Yasak → Don't + fiil.",
+   "sources": [
+    {
+     "name": "Cambridge Dictionary Grammar: Imperative clauses (Be quiet!)",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/imperative-clauses-be-quiet",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Commands and instructions",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/commands-and-instructions",
+     "checked": "page-read"
+    }
+   ],
+   "read_seconds": 26,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 35,
+   "title": "Conjunctions",
+   "title_tr": "Bağlaçlar",
+   "focus": "Bu kart and, but, or, so ve because kelimelerini kapsar.",
+   "meaning": "and, but, or, so, because cümleleri birbirine bağlar.",
+   "when_to_use": [
+    "Benzer fikirleri bağlarken: and",
+    "Zıt fikirleri bağlarken: but",
+    "Sebep söylerken: because",
+    "Sonuç söylerken: so"
+   ],
+   "examples": [
+    {
+     "en": "I was late because my alarm didn't go off.",
+     "tr": "Geç kaldım çünkü alarmım çalmadı."
+    },
+    {
+     "en": "I like coffee, but I don't like tea.",
+     "tr": "Kahveyi severim ama çayı sevmem."
+    }
+   ],
+   "structure": [
+    "cümle + and / but / or + cümle",
+    "because + sebep",
+    "so + sonuç"
+   ],
+   "speaking_clue": "İki fikri bağlarken: aynı yöndeyse and, zıtsa but, sebep because, sonuç so.",
+   "common_mistakes": [
+    {
+     "wrong": "So I'm on a diet, I have stopped eating chocolate.",
+     "right": "I'm on a diet so I have stopped eating chocolate.",
+     "why": "So sonucu bağlar: so cümleciği ikinci sırada gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Why do you want to learn English? Give me a reason.",
+    "note": "Sebep söylemek because ve so'yu çağırır."
+   },
+   "target_patterns": [
+    "and / but / or",
+    "because + clause",
+    "so + result"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Sebep → because. Sonuç → so. İkisi birlikte olmaz.",
+   "sources": [
+    {
+     "name": "Cambridge Dictionary Grammar: Conjunctions",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/conjunctions",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Conjunctions: causes, reasons, results and purpose",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/conjunctions-causes-reasons-results-and-purpose",
+     "checked": "page-read"
+    }
+   ],
+   "read_seconds": 35,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 36,
+   "title": "Adverb Clauses",
+   "title_tr": "Zarf cümlecikleri",
+   "focus": "Bu kart because, although ve when (zaman) cümleciklerini kapsar.",
+   "meaning": "Bir cümleye sebep, zıtlık ya da zaman bilgisi ekleyen küçük cümlelerdir.",
+   "when_to_use": [
+    "Sebep söylerken: because",
+    "Zıtlık söylerken: although",
+    "Zaman söylerken: when, after, until"
+   ],
+   "examples": [
+    {
+     "en": "I enjoyed the course, although I would have liked more grammar practice.",
+     "tr": "Kursu sevdim ama daha fazla gramer alıştırması isterdim."
+    },
+    {
+     "en": "I'll come home when I finish work.",
+     "tr": "İşim bitince eve geleceğim."
+    }
+   ],
+   "structure": [
+    "because / although + özne + fiil",
+    "when / after / until + geniş zaman (gelecek için)"
+   ],
+   "speaking_clue": "'Çünkü', 'yine de', 'ne zaman' diye başka bir olay ekliyorsan bu bağlaçları kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I'll come home when I will finish work.",
+     "right": "I'll come home when I finish work.",
+     "why": "When, after, until'den sonra gelecek için will kullanılmaz."
+    },
+    {
+     "wrong": "Despite he was tired, he worked.",
+     "right": "Although he was tired, he worked.",
+     "why": "Although'dan sonra özne + fiil gelir. Despite'ten sonra isim ya da -ing gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What will you do when you finish work today?",
+    "note": "Gelecek planını anlatmak when cümleciğini çağırır."
+   },
+   "target_patterns": [
+    "because / although + subject + verb",
+    "when / after / until + present simple"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Zaman bağlacından sonra will yok. Although + özne + fiil.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Verbs in time clauses and if clauses",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-time-clauses-if-clauses",
+     "checked": "page-read"
+    },
+    {
+     "name": "British Council LearnEnglish: Contrasting ideas: although, despite and others",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: As, because or since?",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/as-because-or-since",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 44,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 37,
+   "title": "Passive Voice",
+   "title_tr": "Edilgen çatı",
+   "focus": "Bu kart be + fiilin 3. hali yapısını kapsar.",
+   "meaning": "İşi yapanı değil, işten etkilenen şeyi öne çıkarırsın.",
+   "when_to_use": [
+    "İşi kimin yaptığı bilinmiyorsa ya da önemli değilse",
+    "Şeyin kendisi önemliyse: bu yemek neyden yapılır?"
+   ],
+   "examples": [
+    {
+     "en": "Alioli is made from oil, garlic and salt.",
+     "tr": "Alioli yağ, sarımsak ve tuzdan yapılır."
+    },
+    {
+     "en": "The work will be finished next week.",
+     "tr": "İş gelecek hafta bitirilecek."
+    }
+   ],
+   "structure": [
+    "be + fiilin 3. hali",
+    "zaman değişince sadece be değişir (is made, was made, will be made)",
+    "by + yapan (isteğe bağlı)"
+   ],
+   "speaking_clue": "Yapan kişi önemli değilse ya da bilinmiyorsa yapılan şeyle başla: şey + be + 3. hal.",
+   "common_mistakes": [
+    {
+     "wrong": "The house built in 1990.",
+     "right": "The house was built in 1990.",
+     "why": "Be fiili gerekir."
+    },
+    {
+     "wrong": "The work will finished.",
+     "right": "The work will be finished.",
+     "why": "Will'den sonra be + 3. hal gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Tell me about a food from your country. What is it made from?",
+    "note": "Bir yemeğin nasıl yapıldığını anlatmak edilgen yapıyı çağırır."
+   },
+   "target_patterns": [
+    "be + past participle",
+    "is / was / will be + past participle"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Yapılan şey öne çıkıyorsa → be + 3. hal.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Passives",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/passives",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Passive: forms",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/passive-forms",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 39,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 38,
+   "title": "The Causative",
+   "title_tr": "Yaptırma yapısı",
+   "focus": "Bu kart yalnızca have / get something done yapısını kapsar.",
+   "meaning": "Bir işi kendin yapmazsın, başkasına yaptırırsın: saçımı kestirdim.",
+   "when_to_use": [
+    "Bir hizmet alırken: kuaför, tamirci",
+    "Bir işin yapılmasını ayarlarken"
+   ],
+   "examples": [
+    {
+     "en": "Yesterday I had my hair cut.",
+     "tr": "Dün saçımı kestirdim."
+    },
+    {
+     "en": "I'm getting the computer repaired on Monday.",
+     "tr": "Bilgisayarı pazartesi tamir ettireceğim."
+    }
+   ],
+   "structure": [
+    "have + şey + fiilin 3. hali",
+    "get + şey + fiilin 3. hali (daha rahat)"
+   ],
+   "speaking_clue": "İşi başkası yapıyorsa ve sen yaptırıyorsan: have / get + şey + 3. hal.",
+   "common_mistakes": [
+    {
+     "wrong": "I cut my hair at the barber.",
+     "right": "I had my hair cut at the barber.",
+     "why": "Saçı sen kesmedin, berber kesti."
+    },
+    {
+     "wrong": "I had my car repair.",
+     "right": "I had my car repaired.",
+     "why": "Nesneden sonra fiilin 3. hali gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Have you had your hair cut recently? Where did you go?",
+    "note": "Bir hizmet almayı anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "have + object + past participle",
+    "get + object + past participle"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Başkası yapıyor → have / get + şey + 3. hal.",
+   "sources": [
+    {
+     "name": "Cambridge Dictionary Grammar: Have something done",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/have-something-done",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Get",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/get",
+     "checked": "page-read"
+    }
+   ],
+   "read_seconds": 34,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 39,
+   "title": "Conditional Sentences",
+   "title_tr": "Koşul cümleleri",
+   "focus": "Bu kart yalnızca 1. ve 2. tip koşul cümlelerini kapsar.",
+   "meaning": "'Eğer ... olursa' cümleleridir. Bir durumu ve sonucunu anlatırsın.",
+   "when_to_use": [
+    "Gerçekçi bir gelecek durum: yarın yağmur yağmazsa plaja gideriz",
+    "Hayal ettiğin ya da olası olmayan durum: çok param olsa ev alırdım"
+   ],
+   "examples": [
+    {
+     "en": "If it doesn't rain tomorrow, we'll go to the beach.",
+     "tr": "Yarın yağmur yağmazsa plaja gideceğiz."
+    },
+    {
+     "en": "If I won a lot of money, I'd buy a big house.",
+     "tr": "Çok para kazansam büyük bir ev alırdım."
+    }
+   ],
+   "structure": [
+    "If + geniş zaman, will + yalın fiil (olası gelecek)",
+    "If + geçmiş zaman, would + yalın fiil (hayal)"
+   ],
+   "speaking_clue": "Olası bir gelecekse birinci tip (will). Hayal ediyorsan ya da pek olmayacaksa ikinci tip (would).",
+   "common_mistakes": [
+    {
+     "wrong": "If it will rain, we will stay home.",
+     "right": "If it rains, we will stay home.",
+     "why": "If'ten sonra will kullanılmaz."
+    },
+    {
+     "wrong": "If I had money, I will buy a car.",
+     "right": "If I had money, I would buy a car.",
+     "why": "If + geçmiş zaman ile would kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "If you won a lot of money, what would you do?",
+    "note": "Hayal kurmak ikinci tip koşulu çağırır."
+   },
+   "target_patterns": [
+    "If + present simple, will + base verb",
+    "If + past simple, would + base verb"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Olası → If + geniş zaman, will. Hayal → If + geçmiş zaman, would.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Conditionals: zero, first and second",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-zero-first-second",
+     "checked": "page-read"
+    },
+    {
+     "name": "British Council LearnEnglish: Verbs in time clauses and if clauses",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-time-clauses-if-clauses",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Conditionals: if",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/conditionals-if",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 47,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 40,
+   "title": "Wish Clauses & Conditional Conjunctions",
+   "title_tr": "Keşke cümleleri",
+   "focus": "Bu kart yalnızca wish ve if only kullanımını kapsar.",
+   "meaning": "Şu anki ya da geçmişteki bir durumun farklı olmasını dilersin.",
+   "when_to_use": [
+    "Şimdiki bir durum için 'keşke': wish + geçmiş zaman",
+    "Geçmişteki bir şey için pişmanlık: wish + had + 3. hal",
+    "Birinin davranışından şikâyet: wish + would"
+   ],
+   "examples": [
+    {
+     "en": "I wish you didn't live so far away.",
+     "tr": "Keşke bu kadar uzakta yaşamasaydın."
+    },
+    {
+     "en": "They wish they hadn't eaten so much chocolate.",
+     "tr": "Bu kadar çok çikolata yememiş olmayı dilerler."
+    }
+   ],
+   "structure": [
+    "wish + geçmiş zaman (şimdiki durum)",
+    "wish + had + 3. hal (geçmiş pişmanlık)",
+    "wish + would(n't) (bir davranışa sinirlenme)"
+   ],
+   "speaking_clue": "'Keşke' diyorsan wish kullan. Şimdi için geçmiş zaman, geçmiş için had + 3. hal.",
+   "common_mistakes": [
+    {
+     "wrong": "I wish I have more time.",
+     "right": "I wish I had more time.",
+     "why": "Şimdiki bir dilek için wish'ten sonra geçmiş zaman gelir."
+    },
+    {
+     "wrong": "I wish I didn't eat so much yesterday.",
+     "right": "I wish I hadn't eaten so much yesterday.",
+     "why": "Geçmiş pişmanlık için had + 3. hal kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What do you wish you had more of? Tell me one thing you wish for.",
+    "note": "Bir dileği anlatmak wish'i çağırır."
+   },
+   "target_patterns": [
+    "wish + past simple",
+    "wish + past perfect",
+    "wish + would(n't)"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Keşke → wish. Şimdi → geçmiş zaman. Geçmiş → had + 3. hal.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Wishes: wish and if only",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/wishes-wish-if-only",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Wish",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/wish",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 48,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 41,
+   "title": "Noun Clauses",
+   "title_tr": "İsim cümlecikleri",
+   "focus": "Bu kart dolaylı soruyu (Could you tell me where ...?) ve that cümleciğini kapsar.",
+   "meaning": "Bir cümlenin içine başka bir cümle koyarsın: 'Nerede yaşadığını bilmiyorum.'",
+   "when_to_use": [
+    "Bir soruyu nazikçe sorarken: Could you tell me where ...?",
+    "Düşünceni söylerken: I think that ..."
+   ],
+   "examples": [
+    {
+     "en": "Can you tell me where she comes from?",
+     "tr": "Onun nereli olduğunu söyler misin?"
+    },
+    {
+     "en": "I think that it is a good idea.",
+     "tr": "Bence bu iyi bir fikir."
+    }
+   ],
+   "structure": [
+    "Could you tell me + soru kelimesi + özne + fiil",
+    "think / know / hope + (that) + özne + fiil"
+   ],
+   "speaking_clue": "Soruyu nazik ya da dolaylı soruyorsan sırayı düzelt: soru kelimesi + özne + fiil. Do / does kullanma.",
+   "common_mistakes": [
+    {
+     "wrong": "Can you tell me where does she live?",
+     "right": "Can you tell me where she lives?",
+     "why": "Dolaylı soruda do / does kullanılmaz, düz cümle sırası kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "You are at a hotel and I am the receptionist. What would you like to ask me?",
+    "note": "Bir otelde nazikçe soru sormak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "Could you tell me + wh-word + subject + verb",
+    "think / know that + clause"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Dolaylı soru → soru kelimesi + özne + fiil. Do / does yok.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Reported speech: questions",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-questions",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: That-clauses",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/that-clauses",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 39,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 42,
+   "title": "Relative Clauses (Adjective Clauses)",
+   "title_tr": "İlgi cümlecikleri",
+   "focus": "Bu kart yalnızca tanımlayıcı ilgi cümleciklerini (who, which, that, where) kapsar.",
+   "meaning": "Bir kişiyi ya da şeyi tanımlayan küçük bir cümledir: 'benim saçımı kesen kadın'.",
+   "when_to_use": [
+    "Hangi kişi ya da şey olduğunu açıklarken",
+    "Yer ve zaman anlatırken: where, when"
+   ],
+   "examples": [
+    {
+     "en": "She's the woman who cuts my hair.",
+     "tr": "O benim saçımı kesen kadın."
+    },
+    {
+     "en": "That's the stadium where Real Madrid play.",
+     "tr": "Real Madrid'in oynadığı stadyum orası."
+    }
+   ],
+   "structure": [
+    "kişi + who / that",
+    "şey + which / that",
+    "yer + where, zaman + when, sahiplik + whose"
+   ],
+   "speaking_clue": "'Hangi adam, hangi şey?' diye açıklama gerekiyorsa who / which / that ile yeni bir cümlecik ekle.",
+   "common_mistakes": [
+    {
+     "wrong": "The assistant helped us was kind.",
+     "right": "The assistant who helped us was kind.",
+     "why": "Fiilden önce gelen who / that atılamaz."
+    },
+    {
+     "wrong": "the man which I met",
+     "right": "the man who I met",
+     "why": "Kişiler için who ya da that kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "Tell me about a person you admire. Who is he or she?",
+    "note": "Bir insanı tanıtmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "who / that + verb",
+    "which / that + verb",
+    "where / when / whose"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Kişi → who. Şey → which. İkisi için de that.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Relative clauses: defining relative clauses",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-defining-relative-clauses",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Relative clauses: defining and non-defining",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/relative-clauses-defining-and-non-defining",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 41,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 43,
+   "title": "Indirect Speech (Reported Speech)",
+   "title_tr": "Dolaylı anlatım",
+   "focus": "Bu kart söylenenleri aktarmayı (cümlelerde) kapsar.",
+   "meaning": "Birinin söylediğini başkasına aktarırsın.",
+   "when_to_use": [
+    "Birinin dediğini anlatırken: Ali dedi ki ...",
+    "Geçmişte söylenen şeyi aktarırken fiili bir adım geçmişe alırsın"
+   ],
+   "examples": [
+    {
+     "en": "He said, “I like tea.” → He said (that) he liked tea.",
+     "tr": "Çay sevdiğini söyledi."
+    }
+   ],
+   "structure": [
+    "said / told + (that) + geçmişe kaydırılmış cümle",
+    "geniş zaman → geçmiş zaman (work → worked)",
+    "today → that day, tomorrow → the next day"
+   ],
+   "speaking_clue": "Birinin sözünü aktarıyorsan fiili bir adım geçmişe al ve zamirleri düzelt. Söylenen hâlâ doğruysa değiştirmek zorunda değilsin.",
+   "common_mistakes": [
+    {
+     "wrong": "Ali said “I am tired.” → Ali said I was tired.",
+     "right": "Ali said he was tired.",
+     "why": "Aktarırken zamir değişir: I → he."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What did your friend tell you the last time you talked? Tell me what he or she said.",
+    "note": "Bir konuşmayı aktarmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "said (that) + past tense",
+    "pronoun change I → he / she",
+    "time words: tomorrow → the next day"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Aktarma → fiil bir adım geçmişe, zamir değişir.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Reported speech: statements",
+     "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-statements",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Reported speech: indirect speech",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/reported-speech-indirect-speech",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 33,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 44,
+   "title": "Gerund (Fiil + ing)",
+   "title_tr": "Fiil + -ing",
+   "focus": "Bu kart -ing alan fiilleri (enjoy, finish, avoid) kapsar.",
+   "meaning": "Bazı fiillerden sonra ikinci fiil -ing alır: enjoy, finish, avoid.",
+   "when_to_use": [
+    "Neyi sevdiğini ya da sevmediğini söylerken: enjoy, like, love, hate",
+    "Bir işi bitirdiğini ya da sürdürdüğünü söylerken: finish, keep"
+   ],
+   "examples": [
+    {
+     "en": "I love swimming but I hate jogging.",
+     "tr": "Yüzmeyi severim ama koşmaktan nefret ederim."
+    },
+    {
+     "en": "I haven't finished writing this letter.",
+     "tr": "Bu mektubu yazmayı bitirmedim."
+    }
+   ],
+   "structure": [
+    "enjoy / like / love / hate + fiil-ing",
+    "finish / keep / avoid + fiil-ing"
+   ],
+   "speaking_clue": "Sevdiğin ya da bitirdiğin bir işi anlatıyorsan ikinci fiilin sonuna -ing ekle.",
+   "common_mistakes": [
+    {
+     "wrong": "I enjoy to travel.",
+     "right": "I enjoy travelling.",
+     "why": "Enjoy'dan sonra fiil -ing alır."
+    },
+    {
+     "wrong": "I finished to write.",
+     "right": "I finished writing.",
+     "why": "Finish'ten sonra -ing gelir."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What do you enjoy doing in your free time?",
+    "note": "Boş zamanını anlatmak bu yapıyı çağırır."
+   },
+   "target_patterns": [
+    "enjoy / finish / avoid + verb-ing",
+    "like / love / hate + verb-ing"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "enjoy, finish, avoid → fiil-ing.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Verbs followed by the -ing form",
+     "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/verbs-followed-ing-form",
+     "checked": "page-read"
+    },
+    {
+     "name": "British Council LearnEnglish: Verbs followed by -ing or infinitive",
+     "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/verbs-followed-ing-or-infinitive",
+     "checked": "page-read"
+    }
+   ],
+   "read_seconds": 34,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 45,
+   "title": "Infinitive",
+   "title_tr": "to + fiil",
+   "focus": "Bu kart to + yalın fiil yapısını kapsar.",
+   "meaning": "Bazı fiillerden ve sıfatlardan sonra fiil 'to' ile gelir. Amaç söylerken de kullanılır.",
+   "when_to_use": [
+    "Karar, plan ve istek söylerken: decide, want, plan, hope",
+    "Bir şeyin amacını söylerken: to + fiil",
+    "Bir duyguyu söylerken: happy to ..."
+   ],
+   "examples": [
+    {
+     "en": "They decided to start a business together.",
+     "tr": "Birlikte iş kurmaya karar verdiler."
+    },
+    {
+     "en": "He bought some flowers to give to his wife.",
+     "tr": "Karısına vermek için çiçek aldı."
+    }
+   ],
+   "structure": [
+    "decide / want / plan / hope + to + yalın fiil",
+    "amaç: to + yalın fiil (neden?)"
+   ],
+   "speaking_clue": "Karar, plan ya da 'için' diyorsan to + fiil kullan.",
+   "common_mistakes": [
+    {
+     "wrong": "I want going home.",
+     "right": "I want to go home.",
+     "why": "Want'tan sonra to + yalın fiil gelir."
+    },
+    {
+     "wrong": "I went to the shop for buy milk.",
+     "right": "I went to the shop to buy milk.",
+     "why": "Amaç için to + yalın fiil kullanılır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What do you want to do this weekend, and why?",
+    "note": "Planları ve nedenleri anlatmak to + fiil yapısını çağırır."
+   },
+   "target_patterns": [
+    "want / decide / plan + to + base verb",
+    "to + base verb (purpose)"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Karar / istek / amaç → to + yalın fiil.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: To-infinitives",
+     "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/infinitives",
+     "checked": "page-read"
+    },
+    {
+     "name": "Cambridge Dictionary Grammar: Infinitives with and without to",
+     "url": "https://dictionary.cambridge.org/grammar/british-grammar/infinitives-with-and-without-to",
+     "checked": "search-snippet"
+    }
+   ],
+   "read_seconds": 43,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  },
+  {
+   "unit": 46,
+   "title": "Participles",
+   "title_tr": "-ed ve -ing sıfatlar",
+   "focus": "Bu kart yalnızca -ed ve -ing ile biten sıfatları (bored / boring) kapsar. Ortaç cümlecikleri kapsanmaz.",
+   "meaning": "-ed sıfat nasıl hissettiğini söyler. -ing sıfat hissettiren şeyi söyler.",
+   "when_to_use": [
+    "Kendi duygunu söylerken: bored, tired, surprised",
+    "Bir şeyi anlatırken: boring, interesting, tiring"
+   ],
+   "examples": [
+    {
+     "en": "I was really bored in that presentation.",
+     "tr": "O sunumda çok sıkıldım."
+    },
+    {
+     "en": "That was a really boring presentation.",
+     "tr": "O çok sıkıcı bir sunumdu."
+    }
+   ],
+   "structure": [
+    "insan + -ed (I am bored)",
+    "şey + -ing (the film is boring)"
+   ],
+   "speaking_clue": "Kendi duygunu mu söylüyorsun? -ed. Duyguya neyin sebep olduğunu mu söylüyorsun? -ing.",
+   "common_mistakes": [
+    {
+     "wrong": "I am boring.",
+     "right": "I am bored.",
+     "why": "Kendi duygunu -ed ile söylersin. 'I am boring' 'ben sıkıcı biriyim' demektir."
+    },
+    {
+     "wrong": "The film was bored.",
+     "right": "The film was boring.",
+     "why": "Duyguya sebep olan şey -ing alır."
+    }
+   ],
+   "speaking_scenario": {
+    "opener": "What was the last film you watched? Was it interesting? How did you feel?",
+    "note": "Bir filmi anlatmak hem -ed hem -ing sıfatları çağırır."
+   },
+   "target_patterns": [
+    "feel / be + -ed adjective",
+    "be + -ing adjective (cause)"
+   ],
+   "correction_guidance": "If the learner leaves out or misuses the structure, do not stop the conversation: say 'Almost. Say: \"<the corrected sentence>\"' once, then ask one short natural follow-up question so they can try again.",
+   "refresher": "Ben nasıl hissettim → -ed. Ne hissettirdi → -ing.",
+   "sources": [
+    {
+     "name": "British Council LearnEnglish: Adjectives ending in -ed and -ing",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/adjectives-ending-ed-ing",
+     "checked": "page-read"
+    },
+    {
+     "name": "British Council LearnEnglish: Adjectives with -ing and -ed",
+     "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/adjectives-ing-ed",
+     "checked": "page-read"
+    }
+   ],
+   "read_seconds": 34,
+   "verified": "high",
+   "checked_on": "2026-09-27"
+  }
+ ]
+}

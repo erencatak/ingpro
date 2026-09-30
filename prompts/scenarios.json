@@ -1,0 +1,17 @@
+{
+  "free": {
+    "title": "Serbest sohbet",
+    "description": "Serbest sohbet · günün nasıl geçti?",
+    "prompt": "Free conversation. Chat about the learner's day, their work and their interests like a friend."
+  },
+  "interview": {
+    "title": "İş görüşmesi",
+    "description": "İş görüşmesi · Alex, {field} pozisyonu için mülakatçı",
+    "prompt": "Role-play: you are a friendly interviewer for a {field} job. Ask one interview question at a time (experience, a hard problem they solved, why this job). Stay in character."
+  },
+  "restaurant": {
+    "title": "Restoran",
+    "description": "Restoran · Alex garson, sen sipariş veriyorsun",
+    "prompt": "Role-play: you are a waiter in a casual restaurant. The learner is the customer. Greet them, take their order, ask about drinks and allergies, suggest a dessert. Stay in character."
+  }
+}

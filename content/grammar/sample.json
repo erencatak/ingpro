@@ -1,0 +1,896 @@
+{
+ "source": "Örnek liste (Ebru Yener kitabından DEĞİL): 46 konu ve alt başlık yapısını görmek için taslak",
+ "verified": false,
+ "topics": [
+  {
+   "id": 1,
+   "title": "The Verb To Be",
+   "tr": "Be Fiili",
+   "subtopics": [
+    {
+     "id": "1.1",
+     "title": "am / is / are"
+    },
+    {
+     "id": "1.2",
+     "title": "Olumsuz ve soru cümleleri"
+    },
+    {
+     "id": "1.3",
+     "title": "Kısa cevaplar"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Subject Pronouns & Possessive Adjectives",
+   "tr": "Özne Zamirleri ve İyelik Sıfatları",
+   "subtopics": [
+    {
+     "id": "2.1",
+     "title": "I, you, he, she, it, we, they"
+    },
+    {
+     "id": "2.2",
+     "title": "my, your, his, her, its, our, their"
+    },
+    {
+     "id": "2.3",
+     "title": "Zamir ve iyelik sıfatı farkı"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Articles",
+   "tr": "Tanımlıklar (a / an / the)",
+   "subtopics": [
+    {
+     "id": "3.1",
+     "title": "a ve an"
+    },
+    {
+     "id": "3.2",
+     "title": "the ne zaman kullanılır"
+    },
+    {
+     "id": "3.3",
+     "title": "Tanımlık kullanılmayan durumlar"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Nouns: Countable & Uncountable",
+   "tr": "Sayılabilir ve Sayılamayan İsimler",
+   "subtopics": [
+    {
+     "id": "4.1",
+     "title": "Sayılabilir isimler"
+    },
+    {
+     "id": "4.2",
+     "title": "Sayılamayan isimler"
+    },
+    {
+     "id": "4.3",
+     "title": "a piece of, a bottle of"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Plural Nouns",
+   "tr": "Çoğul İsimler",
+   "subtopics": [
+    {
+     "id": "5.1",
+     "title": "-s / -es ekleri"
+    },
+    {
+     "id": "5.2",
+     "title": "Düzensiz çoğullar"
+    },
+    {
+     "id": "5.3",
+     "title": "Yalnızca çoğul kullanılan isimler"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "title": "This, That, These, Those",
+   "tr": "İşaret Sıfatları ve Zamirleri",
+   "subtopics": [
+    {
+     "id": "6.1",
+     "title": "Yakın ve uzak işaret"
+    },
+    {
+     "id": "6.2",
+     "title": "Tekil ve çoğul"
+    },
+    {
+     "id": "6.3",
+     "title": "Soru ve kısa cevaplar"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "title": "There is / There are",
+   "tr": "Var / Yok Yapısı",
+   "subtopics": [
+    {
+     "id": "7.1",
+     "title": "Olumlu ve olumsuz"
+    },
+    {
+     "id": "7.2",
+     "title": "Soru ve kısa cevap"
+    },
+    {
+     "id": "7.3",
+     "title": "There is ile it is farkı"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Have got / Has got",
+   "tr": "Sahiplik",
+   "subtopics": [
+    {
+     "id": "8.1",
+     "title": "Olumlu, olumsuz, soru"
+    },
+    {
+     "id": "8.2",
+     "title": "have ile have got farkı"
+    },
+    {
+     "id": "8.3",
+     "title": "Sahiplik dışındaki kullanımlar"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Present Simple Tense",
+   "tr": "Geniş Zaman",
+   "subtopics": [
+    {
+     "id": "9.1",
+     "title": "Olumlu cümle ve üçüncü tekil -s"
+    },
+    {
+     "id": "9.2",
+     "title": "do / does ile soru ve olumsuz"
+    },
+    {
+     "id": "9.3",
+     "title": "Alışkanlık ve genel gerçekler"
+    },
+    {
+     "id": "9.4",
+     "title": "Zaman ifadeleri"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Adverbs of Frequency",
+   "tr": "Sıklık Zarfları",
+   "subtopics": [
+    {
+     "id": "10.1",
+     "title": "always, usually, often"
+    },
+    {
+     "id": "10.2",
+     "title": "sometimes, rarely, never"
+    },
+    {
+     "id": "10.3",
+     "title": "Cümledeki yeri"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Present Continuous Tense",
+   "tr": "Şimdiki Zaman",
+   "subtopics": [
+    {
+     "id": "11.1",
+     "title": "-ing ekinin yazımı"
+    },
+    {
+     "id": "11.2",
+     "title": "Olumlu, olumsuz, soru"
+    },
+    {
+     "id": "11.3",
+     "title": "Şu anda ve yakın gelecek"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Present Simple vs Continuous",
+   "tr": "Geniş ve Şimdiki Zaman Farkı",
+   "subtopics": [
+    {
+     "id": "12.1",
+     "title": "Kalıcı ve geçici durumlar"
+    },
+    {
+     "id": "12.2",
+     "title": "Durum fiilleri (stative verbs)"
+    },
+    {
+     "id": "12.3",
+     "title": "Karışık alıştırma"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Imperatives",
+   "tr": "Emir Cümleleri",
+   "subtopics": [
+    {
+     "id": "13.1",
+     "title": "Olumlu ve olumsuz emir"
+    },
+    {
+     "id": "13.2",
+     "title": "Let's ile öneri"
+    },
+    {
+     "id": "13.3",
+     "title": "Kibar rica"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Can, Could, Be able to",
+   "tr": "Yeterlilik",
+   "subtopics": [
+    {
+     "id": "14.1",
+     "title": "can ile yetenek ve izin"
+    },
+    {
+     "id": "14.2",
+     "title": "could ile geçmiş yetenek"
+    },
+    {
+     "id": "14.3",
+     "title": "be able to"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Prepositions of Place",
+   "tr": "Yer Edatları",
+   "subtopics": [
+    {
+     "id": "15.1",
+     "title": "in, on, at"
+    },
+    {
+     "id": "15.2",
+     "title": "under, between, next to"
+    },
+    {
+     "id": "15.3",
+     "title": "Yön edatları"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Prepositions of Time",
+   "tr": "Zaman Edatları",
+   "subtopics": [
+    {
+     "id": "16.1",
+     "title": "in, on, at ile zaman"
+    },
+    {
+     "id": "16.2",
+     "title": "for, since, during"
+    },
+    {
+     "id": "16.3",
+     "title": "before, after, until"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Question Words",
+   "tr": "Soru Sözcükleri",
+   "subtopics": [
+    {
+     "id": "17.1",
+     "title": "what, who, where, when"
+    },
+    {
+     "id": "17.2",
+     "title": "why, how, which"
+    },
+    {
+     "id": "17.3",
+     "title": "Özne ve nesne soruları"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Past Simple Tense",
+   "tr": "Geçmiş Zaman",
+   "subtopics": [
+    {
+     "id": "18.1",
+     "title": "Düzenli fiiller -ed"
+    },
+    {
+     "id": "18.2",
+     "title": "Düzensiz fiiller"
+    },
+    {
+     "id": "18.3",
+     "title": "did ile soru ve olumsuz"
+    },
+    {
+     "id": "18.4",
+     "title": "Geçmiş zaman ifadeleri"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Past Continuous Tense",
+   "tr": "Geçmişte Süren Eylem",
+   "subtopics": [
+    {
+     "id": "19.1",
+     "title": "was / were + -ing"
+    },
+    {
+     "id": "19.2",
+     "title": "when ve while"
+    },
+    {
+     "id": "19.3",
+     "title": "Past simple ile birlikte"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Object Pronouns",
+   "tr": "Nesne Zamirleri",
+   "subtopics": [
+    {
+     "id": "20.1",
+     "title": "me, you, him, her, it, us, them"
+    },
+    {
+     "id": "20.2",
+     "title": "Fiilden sonra nesne zamiri"
+    },
+    {
+     "id": "20.3",
+     "title": "Özne ve nesne zamiri karşılaştırma"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Possessive Pronouns & Genitive",
+   "tr": "İyelik Zamirleri ve 's",
+   "subtopics": [
+    {
+     "id": "21.1",
+     "title": "mine, yours, his, hers"
+    },
+    {
+     "id": "21.2",
+     "title": "'s ve of ile aitlik"
+    },
+    {
+     "id": "21.3",
+     "title": "Çift iyelik (a friend of mine)"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Some, Any, No",
+   "tr": "Belirsiz Nicelik Sözcükleri",
+   "subtopics": [
+    {
+     "id": "22.1",
+     "title": "some ve any"
+    },
+    {
+     "id": "22.2",
+     "title": "no, none"
+    },
+    {
+     "id": "22.3",
+     "title": "something, anything, nothing"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Much, Many, A lot of",
+   "tr": "Nicelik Sözcükleri",
+   "subtopics": [
+    {
+     "id": "23.1",
+     "title": "much ve many"
+    },
+    {
+     "id": "23.2",
+     "title": "a lot of, lots of"
+    },
+    {
+     "id": "23.3",
+     "title": "few, little, a few, a little"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Comparatives",
+   "tr": "Karşılaştırma Sıfatları",
+   "subtopics": [
+    {
+     "id": "24.1",
+     "title": "Kısa sıfatlar -er"
+    },
+    {
+     "id": "24.2",
+     "title": "Uzun sıfatlar more"
+    },
+    {
+     "id": "24.3",
+     "title": "as ... as ve than"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Superlatives",
+   "tr": "Üstünlük Derecesi",
+   "subtopics": [
+    {
+     "id": "25.1",
+     "title": "-est ve most"
+    },
+    {
+     "id": "25.2",
+     "title": "Düzensiz sıfatlar"
+    },
+    {
+     "id": "25.3",
+     "title": "the ... in / of"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Adjectives & Adverbs",
+   "tr": "Sıfatlar ve Zarflar",
+   "subtopics": [
+    {
+     "id": "26.1",
+     "title": "Sıfat sırası"
+    },
+    {
+     "id": "26.2",
+     "title": "-ly ile zarf yapımı"
+    },
+    {
+     "id": "26.3",
+     "title": "Düzensiz zarflar (fast, well)"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Present Perfect Tense",
+   "tr": "Yakın Geçmiş",
+   "subtopics": [
+    {
+     "id": "27.1",
+     "title": "have / has + V3"
+    },
+    {
+     "id": "27.2",
+     "title": "for ve since"
+    },
+    {
+     "id": "27.3",
+     "title": "ever, never, already, yet"
+    },
+    {
+     "id": "27.4",
+     "title": "been ve gone farkı"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Present Perfect vs Past Simple",
+   "tr": "Yakın Geçmiş ve Geçmiş Zaman Farkı",
+   "subtopics": [
+    {
+     "id": "28.1",
+     "title": "Zaman belirteci var mı"
+    },
+    {
+     "id": "28.2",
+     "title": "Şimdiyle bağlantı"
+    },
+    {
+     "id": "28.3",
+     "title": "Karışık alıştırma"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Present Perfect Continuous",
+   "tr": "Süregelen Eylem",
+   "subtopics": [
+    {
+     "id": "29.1",
+     "title": "have been + -ing"
+    },
+    {
+     "id": "29.2",
+     "title": "Süre vurgusu"
+    },
+    {
+     "id": "29.3",
+     "title": "Present perfect ile farkı"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Past Perfect Tense",
+   "tr": "Geçmişin Geçmişi",
+   "subtopics": [
+    {
+     "id": "30.1",
+     "title": "had + V3"
+    },
+    {
+     "id": "30.2",
+     "title": "before, after, by the time"
+    },
+    {
+     "id": "30.3",
+     "title": "Past simple ile sıralama"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Future: Will",
+   "tr": "Gelecek Zaman (will)",
+   "subtopics": [
+    {
+     "id": "31.1",
+     "title": "Anlık karar ve söz"
+    },
+    {
+     "id": "31.2",
+     "title": "Tahmin"
+    },
+    {
+     "id": "31.3",
+     "title": "Olumsuz ve soru"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Future: Be going to",
+   "tr": "Planlı Gelecek",
+   "subtopics": [
+    {
+     "id": "32.1",
+     "title": "Plan ve niyet"
+    },
+    {
+     "id": "32.2",
+     "title": "Kanıta dayalı tahmin"
+    },
+    {
+     "id": "32.3",
+     "title": "will ile going to farkı"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "title": "Future Continuous & Future Perfect",
+   "tr": "İleri Gelecek Zamanlar",
+   "subtopics": [
+    {
+     "id": "33.1",
+     "title": "will be + -ing"
+    },
+    {
+     "id": "33.2",
+     "title": "will have + V3"
+    },
+    {
+     "id": "33.3",
+     "title": "Zaman ifadeleri"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "title": "Modals of Obligation",
+   "tr": "Zorunluluk Modalleri",
+   "subtopics": [
+    {
+     "id": "34.1",
+     "title": "must, have to"
+    },
+    {
+     "id": "34.2",
+     "title": "mustn't ve don't have to"
+    },
+    {
+     "id": "34.3",
+     "title": "should, ought to"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "title": "Modals of Possibility",
+   "tr": "Olasılık Modalleri",
+   "subtopics": [
+    {
+     "id": "35.1",
+     "title": "may, might, could"
+    },
+    {
+     "id": "35.2",
+     "title": "must ve can't ile çıkarım"
+    },
+    {
+     "id": "35.3",
+     "title": "Geçmiş çıkarım (must have)"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "title": "Passive Voice",
+   "tr": "Edilgen Çatı",
+   "subtopics": [
+    {
+     "id": "36.1",
+     "title": "be + V3"
+    },
+    {
+     "id": "36.2",
+     "title": "Zamanlara göre edilgen"
+    },
+    {
+     "id": "36.3",
+     "title": "by ile fail"
+    },
+    {
+     "id": "36.4",
+     "title": "Edilgen soru ve olumsuz"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "title": "Conditionals: Zero & First",
+   "tr": "Koşul Cümleleri (0 ve 1)",
+   "subtopics": [
+    {
+     "id": "37.1",
+     "title": "If + present simple"
+    },
+    {
+     "id": "37.2",
+     "title": "Zero conditional"
+    },
+    {
+     "id": "37.3",
+     "title": "unless ve as long as"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "title": "Conditionals: Second & Third",
+   "tr": "Koşul Cümleleri (2 ve 3)",
+   "subtopics": [
+    {
+     "id": "38.1",
+     "title": "Second conditional"
+    },
+    {
+     "id": "38.2",
+     "title": "Third conditional"
+    },
+    {
+     "id": "38.3",
+     "title": "Karışık koşul cümleleri"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "title": "Reported Speech",
+   "tr": "Dolaylı Anlatım",
+   "subtopics": [
+    {
+     "id": "39.1",
+     "title": "Zaman kaymaları"
+    },
+    {
+     "id": "39.2",
+     "title": "Dolaylı soru ve emir"
+    },
+    {
+     "id": "39.3",
+     "title": "say ile tell farkı"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "title": "Relative Clauses",
+   "tr": "İlgi Cümlecikleri",
+   "subtopics": [
+    {
+     "id": "40.1",
+     "title": "who, which, that"
+    },
+    {
+     "id": "40.2",
+     "title": "whose, where, when"
+    },
+    {
+     "id": "40.3",
+     "title": "Tanımlayıcı ve tanımlayıcı olmayan"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "title": "Gerunds & Infinitives",
+   "tr": "-ing ve to + Fiil",
+   "subtopics": [
+    {
+     "id": "41.1",
+     "title": "Fiilden sonra -ing"
+    },
+    {
+     "id": "41.2",
+     "title": "Fiilden sonra to + fiil"
+    },
+    {
+     "id": "41.3",
+     "title": "Anlamı değişenler (stop, remember)"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "title": "Phrasal Verbs",
+   "tr": "Deyimsel Fiiller",
+   "subtopics": [
+    {
+     "id": "42.1",
+     "title": "Ayrılabilen ve ayrılamayan"
+    },
+    {
+     "id": "42.2",
+     "title": "Sık kullanılan 30 phrasal verb"
+    },
+    {
+     "id": "42.3",
+     "title": "Anlam tahmini"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "title": "Conjunctions & Linking Words",
+   "tr": "Bağlaçlar",
+   "subtopics": [
+    {
+     "id": "43.1",
+     "title": "and, but, or, so"
+    },
+    {
+     "id": "43.2",
+     "title": "although, however, despite"
+    },
+    {
+     "id": "43.3",
+     "title": "because, since, as"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "title": "Question Tags",
+   "tr": "Soru Ekleri",
+   "subtopics": [
+    {
+     "id": "44.1",
+     "title": "Olumlu ve olumsuz ek"
+    },
+    {
+     "id": "44.2",
+     "title": "Özel durumlar (I am, let's)"
+    },
+    {
+     "id": "44.3",
+     "title": "Tonlama"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "title": "Wish & If only",
+   "tr": "Dilek Cümleleri",
+   "subtopics": [
+    {
+     "id": "45.1",
+     "title": "wish + past simple"
+    },
+    {
+     "id": "45.2",
+     "title": "wish + past perfect"
+    },
+    {
+     "id": "45.3",
+     "title": "would ile şikâyet"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "title": "Inversion & Emphasis",
+   "tr": "Devrik Cümle ve Vurgu",
+   "subtopics": [
+    {
+     "id": "46.1",
+     "title": "Never, rarely, hardly"
+    },
+    {
+     "id": "46.2",
+     "title": "Not only ... but also"
+    },
+    {
+     "id": "46.3",
+     "title": "Cleft cümleler (It is ... that)"
+    }
+   ]
+  }
+ ]
+}
